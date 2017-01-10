@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>左潇龙个人博客-记录走过的Java之路</title>
+<meta name="keywords" content="一个屌丝程序猿的人生,阿里中间件,任务调度框架,分布式,niubi-job,程序员小说,左潇龙,左潇龙个人博客,左潇龙程序员小说,异能程序员">
+<meta name="description" content="左潇龙个人博客，记录了职场与生活当中的点点滴滴，让你看到不一样的程序员博客">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta property="qc:admins" content="11436637076257011747676375" />
+<link href="http://www.zuoxiaolong.com/resources/css/common/base.css" rel="stylesheet">
+<link href="http://www.zuoxiaolong.com/resources/css/common/index.css" rel="stylesheet">
+<link href="http://www.zuoxiaolong.com/resources/css/common/github_button.css" rel="stylesheet">
+<link href="http://www.zuoxiaolong.com/resources/css/common/jquery-ui.min.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="http://www.zuoxiaolong.com/resources/css/shbrush/shCore.css"/>
+<link type="text/css" rel="stylesheet" href="http://www.zuoxiaolong.com/resources/css/shbrush/shThemeDefault.css"/></head>
+<body>
+<header>
+    <div class="logo float_left"><a href="#"><img src="http://www.zuoxiaolong.com/resources/img/common/header_logo.png"></a></div>
+    <nav id="header_nav" class="float_right">
+        <ul>
+            <a class="header_nav_a" href="/blog/index.ftl" title="首页">首页</a>
+            <!--
+            <a class="header_nav_a" href="/question/question_list.ftl?current=1" title="疑问解答">疑问解答</a>
+            <a class="header_nav_a" href="/record/record_list.ftl?current=1" title="问题记录" >问题记录</a>
+            -->
+            <a class="header_nav_a" href="http://www.zuoxiaolong.com/blog/about_me.ftl" title="关于我" >关于我</a>
+            <a class="header_nav_a" href="/blog/article_list.ftl?orderColumn=create_date&current=1" title="全部文章">全部文章</a>
+            <a class="header_nav_a" href="/blog/article_list.ftl?type=1&current=1" title="程序员小说">程序员小说</a>
+            <a class="header_nav_a" href="http://www.zuoxiaolong.com/message/message_list.ftl" title="留言板" >留言板</a>
+        </ul>
+    </nav>
+</header><article>
+    <p style="margin: 50px;font-size: 25px;color: #999999;">该页面没有找到，请检查链接地址是否正确！</p>
+</article>
+<footer>
+    <p class="ft-copyright">© 2015 左潇龙 <a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备15025768号</a></p>
+    <div id="bottom_float_box"><a id="go_to_top" href="#"></a></div>
+</footer><script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/jquery.form.min.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/sliders.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/common.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shCore.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushAppleScript.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushAS3.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushBash.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushColdFusion.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushCpp.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushCSharp.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushCss.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushDelphi.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushDiff.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushErlang.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushGroovy.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushJava.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushJScript.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushJavaFX.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushPerl.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushPhp.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushPlain.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushJava.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushPython.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushRuby.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushSass.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushScala.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushSql.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushVb.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/shbrush/shBrushXml.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/common/forbidden.backspace.js"></script>
+<script type="text/javascript">
+    SyntaxHighlighter.all();
+    var contextPath = "http://www.zuoxiaolong.com";
+</script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="http://www.zuoxiaolong.com/resources/js/tinymce/tinymce.init.js"></script>
+<script type="application/javascript">
+    window.onload = function () {
+        var tabElement = document.getElementById("tab");
+        var msMainElement = document.getElementById("ms-main");
+        if (!tabElement || !msMainElement) {
+            return;
+        }
+        var liElement = tabElement.getElementsByTagName("li");
+        var divElement = msMainElement.getElementsByTagName("div");
+
+        for (var i = 0; i < liElement.length; i++) {
+            liElement[i].index = i;
+            liElement[i].onmouseover = function () {
+                for (var n = 0; n < liElement.length; n++) liElement[n].className = "";
+                this.className = "cur";
+                for (var n = 0; n < divElement.length; n++) divElement[n].style.display = "none";
+                divElement[this.index].style.display = "block";
+            }
+        }
+    };
+    $(document).ready(function(){
+        $("#site_search_button").click(function() {
+            if (!$("#search_text_input").val().trim()) {
+                alert("搜索内容不能为空！");
+                return false;
+            }
+            searchArticles("searchText",$("#search_text_input").val());
+        });
+        $("#qq_login_button").click(function(){
+            window.location.href="http://www.zuoxiaolong.com/redirect.do";
+        });
+        $("#logout_button").click(function(){
+            $.ajax({
+                url:"http://www.zuoxiaolong.com/logout.do",
+                type:"POST",
+                success:function(data) {
+                    if(data && data == 'success'){
+                        window.location.href="http://www.zuoxiaolong.com";
+                    }
+                }
+            });
+        });
+        $("#login_register_button").click(function(){
+            $.ajax({
+                url:"http://www.zuoxiaolong.com/login.do",
+                type:"POST",
+                data:{"username":$("input[name=username]").val(),"password":$("input[name=password]").val()},
+                success:function(data){
+                    if(data && data.success){
+                        window.location.href=data.url;
+                    } else {
+                        $("#login_error_td").css("color","red");
+                        $("#login_error_td").html(data);
+                    }
+                }
+            });
+        });
+    });
+    <!-- 滚动图片切换 -->
+    if (!window.slider) {
+        var slider = {};
+    }
+    slider.data = [
+        {
+            "id": "slide-img-1",
+            "client": "",
+            "desc": ""
+        },
+        {
+            "id": "slide-img-2",
+            "client": "",
+            "desc": ""
+        },
+        {
+            "id": "slide-img-3",
+            "client": "",
+            "desc": ""
+        },
+        {
+            "id": "slide-img-4",
+            "client": "",
+            "desc": ""
+        }
+    ];
+</script></body>
+</html>

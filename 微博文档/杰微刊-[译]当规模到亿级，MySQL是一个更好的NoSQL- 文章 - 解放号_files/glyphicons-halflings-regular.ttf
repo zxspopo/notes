@@ -1,0 +1,2593 @@
+
+
+
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<title>解放号，可信的IT服务众包平台</title>
+<meta property="qc:admins" content="231327022534627164672356375" />
+<meta http-equiv="pragma" content="Pragma"/>
+<meta http-equiv="cache-control" content="max-age=3600, must-revalidate"/>
+<meta http-equiv="expires" content="3600"/>
+<meta name="keywords" content="解放号,众包平台,众包网站,JointForce,众包,项目交易,外包,定制开发,软件开发,项目开发">
+<meta name="description" content="解放号JointForce平台，提供设计、开发、测试、运维、运营、编辑等项目资源和人才资源，为企业、软件公司和软件开发人才提供一个可信IT服务众包平台。">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.jointforce.com/icon/logo.png"/>
+
+
+
+
+
+
+
+
+<meta charset=UTF-8 />
+<meta name="author" content="CSI"/>
+<link rel="shortcut icon" type="image/x-icon" href="https://www.jointforce.com/icon/logo.png"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+<link rel="stylesheet" type="text/css" href="/styles/base.css" />
+<link rel="stylesheet" type="text/css" href="/styles/common.css" />
+<link rel="stylesheet" type="text/css" href="/styles/extends/loginreg/loginreg.css"/>
+<script type="text/javascript" src="/js/lib/biz.jquery.js"></script>
+<script>
+var rpath = 'https://www.jointforce.com';
+var _hmt = _hmt || [];
+(function() {
+   if(!rpath.match("localhost")){
+	   var hm = document.createElement("script");
+	   hm.src = "//hm.baidu.com/hm.js?cc7c68ca6e0732df36608aed8e72564c";
+	   var s = document.getElementsByTagName("script")[0]; 
+	   s.parentNode.insertBefore(hm, s);
+   }
+
+})();
+</script>
+<link rel="stylesheet" type="text/css" href="/styles/extends/carousel/carousel.css"/>
+<link rel="stylesheet" type="text/css" href="/styles/extends/kslider/kslider-index.css"/>
+<script>
+var rpath = 'https://www.jointforce.com';
+var _hmt = _hmt || [];
+(function() {
+   if(!rpath.match("localhost")){
+	   var hm = document.createElement("script");
+	   hm.src = "//hm.baidu.com/hm.js?cc7c68ca6e0732df36608aed8e72564c";
+	   var s = document.getElementsByTagName("script")[0]; 
+	   s.parentNode.insertBefore(hm, s);
+   }
+
+})();
+</script>
+</head>
+<body>
+<input type="hidden" id="adv" value="[{&#034;adUrl&#034;:&#034;https://woowtest.jointforce.com/LightTowerTester/jsp/introduction/testIntroduction.jsp&#034;,&#034;imgUrl&#034;:&#034;https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload__20c5e006_15221b6c4d8__7ffe_00000013_banner201601051920.jpg&#034;,&#034;position&#034;:0},{&#034;adUrl&#034;:&#034;https://www.jointforce.com/jfalm/pages/ad/codeCheckServiceIntro.html&#034;,&#034;imgUrl&#034;:&#034;https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload_4f53a884_1501836ea7f__7ffe_00000008_1.png&#034;,&#034;position&#034;:1},{&#034;adUrl&#034;:&#034;http://bbs.jointforce.com/forum.php?mod=forumdisplay&amp;fid=216&#034;,&#034;imgUrl&#034;:&#034;https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload__4775afdc_15317e7a7fe__7ffe_00000008_文章宣传.jpg&#034;,&#034;position&#034;:1},{&#034;adUrl&#034;:&#034;http://land.jointforce.com/jfactivity/quiz10&#034;,&#034;imgUrl&#034;:&#034;https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload_16fb9af6_1514869cb7a__7ffe_00000020_首页banner10.png&#034;,&#034;position&#034;:3}]">
+<div id="hphead">
+	<div class="hphead">
+		<a href="https://www.jointforce.com"><h1 id="hplogo">解放号 JointForce</h1></a>
+		<ul id="nav">
+			<li class="login"><a href="javascript:;" id="btn-login-show"><i class="nav_icon_login"></i>登录</a></li>
+			<li class="reg"><a target="_blank" href="/register/index"><i class="nav_icon_reg"></i>注册</a></li>
+	    	<li><a target="_blank" href="https://www.jointforce.com/jetchat"><i class="nav_icon_klinfo" style="display:none"></i>移动端</a></li>
+	    	<li><a target="_blank" href="http://www.jointforce.com/jfperiodical/openhome?m=d03"><i class="nav_icon_jwk" style="display:none"></i>杰微刊</a></li>
+			<li><a target="_blank" href="http://bbs.jointforce.com/jointapp.php"><i class="nav_icon_bbs" style="display:none"></i>论坛</a></li>
+			<li><a target="_blank" href="http://bbs.jointforce.com/forum.php?mod=forumdisplay&fid=150"><i class="nav_icon_space" style="display:none"></i>客服</a></li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="hpshow">
+	<a class="hd20150610" style="display:none" href="/hd/gcjh.html" target="_blank"><span></span></a>
+	<div id="myCarousel" class="carousel slide" data-interval="1000">
+		<ol class="carousel-indicators">
+		    <!-- data-slide-to属性用于指定点击该按钮，轮播组件展示第几幅图片 -->
+<!-- 		    <li data-target="#myCarousel" data-slide-to="0" class="active"></li> -->
+<!-- 		    <li data-target="#myCarousel" data-slide-to="1"></li> -->
+		  </ol>
+		<div class="carousel-inner">
+		    
+			   <div class="item active">
+			      <a href="https://woowtest.jointforce.com/LightTowerTester/jsp/introduction/testIntroduction.jsp" target="_blank">
+				  <img id="adimg_0" src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload__20c5e006_15221b6c4d8__7ffe_00000013_banner201601051920.jpg" alt="解放号，可信的IT服务众包平台"  style="height:300px; max-width:none;">
+			      </a>
+			   </div>
+			
+			   <div class="item ">
+			      <a href="https://www.jointforce.com/jfalm/pages/ad/codeCheckServiceIntro.html" target="_blank">
+				  <img id="adimg_1" src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload_4f53a884_1501836ea7f__7ffe_00000008_1.png" alt="解放号，可信的IT服务众包平台"  style="height:300px; max-width:none;">
+			      </a>
+			   </div>
+			
+			   <div class="item ">
+			      <a href="http://bbs.jointforce.com/forum.php?mod=forumdisplay&amp;fid=216" target="_blank">
+				  <img id="adimg_1" src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload__4775afdc_15317e7a7fe__7ffe_00000008_文章宣传.jpg" alt="解放号，可信的IT服务众包平台"  style="height:300px; max-width:none;">
+			      </a>
+			   </div>
+			
+			   <div class="item ">
+			      <a href="http://land.jointforce.com/jfactivity/quiz10" target="_blank">
+				  <img id="adimg_3" src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_webLoginD/upload_16fb9af6_1514869cb7a__7ffe_00000020_首页banner10.png" alt="解放号，可信的IT服务众包平台"  style="height:300px; max-width:none;">
+			      </a>
+			   </div>
+			 
+			<div class="item">
+				<span class="openvideo"></span>
+				<a href="/pages/user/useraccout/introB.jsp" title="点击进一步了解放号" target="_blank">
+				<img id="kslb-img0" src="" alt="解放号，可信的IT服务众包平台" style="height:300px; max-width:none;">
+				</a>
+			</div>
+			<div class="item">
+				<a href="/pages/user/useraccout/introD.jsp" title="点击进一步了解放号"  target="_blank">
+				<img id="kslb-img1" src="" alt="解放号，可信的IT服务众包平台" style="height:300px; max-width:none;">
+				</a>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<div id="hpbody">
+	<div id="hpnew">
+		<div id="hpnewleft">
+			
+			
+			<div class="hpnewleftbox floatleft">
+				<div class="header">
+					<h1>最新需求</h1>
+					<a target="_blank" href="/register?f=JF_JY_SY" class="kbtn kbtn_green kbtn26 floatright">我要报名</a>
+					<div class="clear"></div>
+				</div>
+				<div class="bodyer cxscroll" id="alist">
+					<div class="box listbox">					
+						<ul class="list">
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="opencart系统BUG调试，程序功能开发" href="https://www.jointforce.com/jfportal/all/detail/NTc3Nzs1OQ==" class="txtellipsis green ordernameb floatleft">opencart系统BUG调试，程序功能开发</a>
+								<span class="mtime floatright alignright">12小时前</span>	
+								<span class="price txtellipsis">￥1,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="微信开发" class="icon_wt_opd_s on"></i></span>
+								<a target="_blank" title="微信公众平台需求" href="https://www.jointforce.com/jfportal/all/detail/NTc3NjsxMQ==" class="txtellipsis green ordernameb floatleft">微信公众平台需求</a>
+								<span class="mtime floatright alignright">13小时前</span>	
+								<span class="price txtellipsis">￥24,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="企业/品牌建站" href="https://www.jointforce.com/jfportal/all/detail/NTc3MzsyMw==" class="txtellipsis green ordernameb floatleft">企业/品牌建站</a>
+								<span class="mtime floatright alignright">13小时前</span>	
+								<span class="price txtellipsis">￥1,188.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="新疆某镇反恐信息系统" href="https://www.jointforce.com/jfportal/all/detail/NTc2OTsyMQ==" class="txtellipsis green ordernameb floatleft">新疆某镇反恐信息系统</a>
+								<span class="mtime floatright alignright">14小时前</span>	
+								<span class="price txtellipsis">￥20,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="桌面应用开发" class="icon_wt_dapp_s on"></i></span>
+								<a target="_blank" title="会计从业资格考试模拟练习软件" href="https://www.jointforce.com/jfportal/all/detail/NTc2ODsxMg==" class="txtellipsis green ordernameb floatleft">会计从业资格考试模拟练习软件</a>
+								<span class="mtime floatright alignright">14小时前</span>	
+								<span class="price txtellipsis">￥10,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" title="安卓后台静默安装插件" href="https://www.jointforce.com/jfportal/all/detail/NTc2Nzs3Ng==" class="txtellipsis green ordernameb floatleft">安卓后台静默安装插件</a>
+								<span class="mtime floatright alignright">14小时前</span>	
+								<span class="price txtellipsis">￥1,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="激光雕刻软件" href="https://www.jointforce.com/jfportal/all/detail/NTc2NjszOA==" class="txtellipsis green ordernameb floatleft">激光雕刻软件</a>
+								<span class="mtime floatright alignright">19小时前</span>	
+								<span class="price txtellipsis">￥30,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="驻场互联网行业前端工程师" href="https://www.jointforce.com/jfportal/all/detail/NTc2NTsyOQ==" class="txtellipsis green ordernameb floatleft">驻场互联网行业前端工程师</a>
+								<span class="mtime floatright alignright">19小时前</span>	
+								<span class="price txtellipsis">￥30,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="桌面应用开发" class="icon_wt_dapp_s on"></i></span>
+								<a target="_blank" title="中药房管理系统" href="https://www.jointforce.com/jfportal/all/detail/NTc2NDszNQ==" class="txtellipsis green ordernameb floatleft">中药房管理系统</a>
+								<span class="mtime floatright alignright">21小时前</span>	
+								<span class="price txtellipsis">￥80,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="新疆某县反恐信息系统" href="https://www.jointforce.com/jfportal/all/detail/NTc2Mjs0Mw==" class="txtellipsis green ordernameb floatleft">新疆某县反恐信息系统</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥3,200.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" title="银联HCE开发" href="https://www.jointforce.com/jfportal/all/detail/NTc2MTsxMQ==" class="txtellipsis green ordernameb floatleft">银联HCE开发</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥3,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="桌面应用开发" class="icon_wt_dapp_s on"></i></span>
+								<a target="_blank" title="会计从业资格考试模拟练习软件桌面版" href="https://www.jointforce.com/jfportal/all/detail/NTc2MDs5" class="txtellipsis green ordernameb floatleft">会计从业资格考试模拟练习软件桌面版</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥20,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="微信开发" class="icon_wt_opd_s on"></i></span>
+								<a target="_blank" title="微信公众号开发" href="https://www.jointforce.com/jfportal/all/detail/NTc1ODsxOQ==" class="txtellipsis green ordernameb floatleft">微信公众号开发</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥1,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="系统分析设计" class="icon_wt_sd_s on"></i></span>
+								<a target="_blank" title="航模无人机发动机电喷系统开发" href="https://www.jointforce.com/jfportal/all/detail/NTc1OTs1NQ==" class="txtellipsis green ordernameb floatleft">航模无人机发动机电喷系统开发</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥100,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" title="开发安卓微转宝" href="https://www.jointforce.com/jfportal/all/detail/NTc1Nzs4MA==" class="txtellipsis green ordernameb floatleft">开发安卓微转宝</a>
+								<span class="mtime floatright alignright">1天前</span>	
+								<span class="price txtellipsis">￥80,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="基金公司建立网站，PPT视频解说" href="https://www.jointforce.com/jfportal/all/detail/NTc0Njs2NA==" class="txtellipsis green ordernameb floatleft">基金公司建立网站，PPT视频解说</a>
+								<span class="mtime floatright alignright">2天前</span>	
+								<span class="price txtellipsis">￥5,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="寻求开发H5游戏网站平台的团队" href="https://www.jointforce.com/jfportal/all/detail/NTc1NjsyNA==" class="txtellipsis green ordernameb floatleft">寻求开发H5游戏网站平台的团队</a>
+								<span class="mtime floatright alignright">2天前</span>	
+								<span class="price txtellipsis">￥10,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="数据分析开发" class="icon_wt_dad_s on"></i></span>
+								<a target="_blank" title="抓取博彩公司数据软件" href="https://www.jointforce.com/jfportal/all/detail/NTc1NDs1MA==" class="txtellipsis green ordernameb floatleft">抓取博彩公司数据软件</a>
+								<span class="mtime floatright alignright">2天前</span>	
+								<span class="price txtellipsis">￥3,000.00</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="应用集成开发" class="icon_wt_aid_s on"></i></span>
+								<a target="_blank" title="Linux打印数据解析、更改" href="https://www.jointforce.com/jfportal/all/detail/NTc1Mzs5OQ==" class="txtellipsis green ordernameb floatleft">Linux打印数据解析、更改</a>
+								<span class="mtime floatright alignright">2天前</span>	
+								<span class="price txtellipsis">￥15,000.48</span>
+							</li>
+							
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" title="互动教学-必须是北京的团队" href="https://www.jointforce.com/jfportal/all/detail/NTc1Mjsw" class="txtellipsis green ordernameb floatleft">互动教学-必须是北京的团队</a>
+								<span class="mtime floatright alignright">2天前</span>	
+								<span class="price txtellipsis">￥100,000.00</span>
+							</li>
+							
+						 
+						<!--
+							 
+						-->
+						</ul>
+					</div>
+					<p class="alignright"><a target="_blank" href="https://www.jointforce.com/jfportal/all/xuqiu" class="blue" id="hpnewleftboxmore">查看更多 &gt;</a></p>
+				</div>
+			</div>
+
+			<div class="hpnewleftbox floatright">
+				<div class="header">
+					<h1>热门需求</h1>
+					<a href="/bu/register?f=JF_JY_SY" class="kbtn kbtn_green kbtn26 floatright">发布需求</a>
+					<div class="clear"></div>
+				</div>
+				<div class="bodyer cxscroll" id="blist">
+					<div class="box listbox">					
+						<ul class="list">
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTQyNDszMQ==" class="txtellipsis green ordername" title="苏州港铁票务系统Java开发及测试人员外包项目">苏州港铁票务系统Java开发及测试人员外包项目</a>	
+								<span class="attention floatright"><em>13199</em>人围观</span>
+								<span class="price txtellipsis">￥166,400.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTQzMjs0OA==" class="txtellipsis green ordername" title="医药管理系统">医药管理系统</a>	
+								<span class="attention floatright"><em>12987</em>人围观</span>
+								<span class="price txtellipsis">￥20,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTUwNTs2MA==" class="txtellipsis green ordername" title="移动POS机">移动POS机</a>	
+								<span class="attention floatright"><em>1115</em>人围观</span>
+								<span class="price txtellipsis">￥20,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTY5Nzs2MA==" class="txtellipsis green ordername" title="发票管理系统">发票管理系统</a>	
+								<span class="attention floatright"><em>1058</em>人围观</span>
+								<span class="price txtellipsis">￥60,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="系统分析设计" class="icon_wt_sd_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTU5MzsyNA==" class="txtellipsis green ordername" title="交通工程质量、安全监督管理信息系统">交通工程质量、安全监督管理信息系统</a>	
+								<span class="attention floatright"><em>1052</em>人围观</span>
+								<span class="price txtellipsis">￥250,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="数据分析开发" class="icon_wt_dad_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTY0NTs2Mw==" class="txtellipsis green ordername" title="自动数据挖据系统">自动数据挖据系统</a>	
+								<span class="attention floatright"><em>919</em>人围观</span>
+								<span class="price txtellipsis">￥200,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTc0MDsyMA==" class="txtellipsis green ordername" title="企业网站建设">企业网站建设</a>	
+								<span class="attention floatright"><em>820</em>人围观</span>
+								<span class="price txtellipsis">￥50,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTY5ODszNA==" class="txtellipsis green ordername" title="协同办公系统">协同办公系统</a>	
+								<span class="attention floatright"><em>693</em>人围观</span>
+								<span class="price txtellipsis">￥120,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTU2Mzs3Nw==" class="txtellipsis green ordername" title="评价系统">评价系统</a>	
+								<span class="attention floatright"><em>690</em>人围观</span>
+								<span class="price txtellipsis">￥80,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="系统软件配置/调优" class="icon_wt_sys_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTU5Mjs5MA==" class="txtellipsis green ordername" title="OpenERP客户化定制">OpenERP客户化定制</a>	
+								<span class="attention floatright"><em>688</em>人围观</span>
+								<span class="price txtellipsis">￥50,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTY4ODs3NQ==" class="txtellipsis green ordername" title="android应用程序开发">android应用程序开发</a>	
+								<span class="attention floatright"><em>666</em>人围观</span>
+								<span class="price txtellipsis">￥2,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTY4NTs3NQ==" class="txtellipsis green ordername" title="官网后期BUG修复">官网后期BUG修复</a>	
+								<span class="attention floatright"><em>662</em>人围观</span>
+								<span class="price txtellipsis">￥2,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTUxNjs5NQ==" class="txtellipsis green ordername" title="监管追溯系统">监管追溯系统</a>	
+								<span class="attention floatright"><em>636</em>人围观</span>
+								<span class="price txtellipsis">￥50,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTczNzsyMg==" class="txtellipsis green ordername" title="支付系统开发">支付系统开发</a>	
+								<span class="attention floatright"><em>606</em>人围观</span>
+								<span class="price txtellipsis">￥500,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTUxMDs2Mg==" class="txtellipsis green ordername" title="电商网站二次开发">电商网站二次开发</a>	
+								<span class="attention floatright"><em>601</em>人围观</span>
+								<span class="price txtellipsis">￥50,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTUxNDs0OA==" class="txtellipsis green ordername" title="手机网站开发">手机网站开发</a>	
+								<span class="attention floatright"><em>566</em>人围观</span>
+								<span class="price txtellipsis">￥8,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="系统分析设计" class="icon_wt_sd_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTczNjszMQ==" class="txtellipsis green ordername" title="网络问卷测试及管理系统">网络问卷测试及管理系统</a>	
+								<span class="attention floatright"><em>498</em>人围观</span>
+								<span class="price txtellipsis">￥25,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTc1MDs2Nw==" class="txtellipsis green ordername" title="安卓系统数据展示平台与后台服务器">安卓系统数据展示平台与后台服务器</a>	
+								<span class="attention floatright"><em>497</em>人围观</span>
+								<span class="price txtellipsis">￥60,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="Web应用开发" class="icon_wt_webapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTc1Njs5MQ==" class="txtellipsis green ordername" title="寻求开发H5游戏网站平台的团队">寻求开发H5游戏网站平台的团队</a>	
+								<span class="attention floatright"><em>491</em>人围观</span>
+								<span class="price txtellipsis">￥10,000.00	</span>
+							</li>
+						
+							<li>
+								<span class="iconbox floatleft"><i title="移动应用开发" class="icon_wt_mapp_s on"></i></span>
+								<a target="_blank" href="https://www.jointforce.com/jfportal/all/detail/NTc0NDs0Mw==" class="txtellipsis green ordername" title="头部摆动控制的一种交互方式">头部摆动控制的一种交互方式</a>	
+								<span class="attention floatright"><em>480</em>人围观</span>
+								<span class="price txtellipsis">￥100,000.00	</span>
+							</li>
+						 
+							<!--
+						
+							<li>
+								<span class="time txtellipsis">12小时前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc3Nzs1OQ=="></a>
+								<span class="price">￥1000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">13小时前发布</span>
+								<span class="worktype txtellipsis" title="微信开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc3NjsxMQ=="></a>
+								<span class="price">￥24000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">13小时前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc3MzsyMw=="></a>
+								<span class="price">￥1188</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">14小时前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2OTsyMQ=="></a>
+								<span class="price">￥20000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">14小时前发布</span>
+								<span class="worktype txtellipsis" title="桌面应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2ODsxMg=="></a>
+								<span class="price">￥10000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">14小时前发布</span>
+								<span class="worktype txtellipsis" title="移动应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2Nzs3Ng=="></a>
+								<span class="price">￥1000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">19小时前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2NjszOA=="></a>
+								<span class="price">￥30000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">19小时前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2NTsyOQ=="></a>
+								<span class="price">￥30000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">21小时前发布</span>
+								<span class="worktype txtellipsis" title="桌面应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2NDszNQ=="></a>
+								<span class="price">￥80000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2Mjs0Mw=="></a>
+								<span class="price">￥3200</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="移动应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2MTsxMQ=="></a>
+								<span class="price">￥3000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="桌面应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc2MDs5"></a>
+								<span class="price">￥20000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="微信开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1ODsxOQ=="></a>
+								<span class="price">￥1000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="系统分析设计">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1OTs1NQ=="></a>
+								<span class="price">￥100000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">1天前发布</span>
+								<span class="worktype txtellipsis" title="移动应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1Nzs4MA=="></a>
+								<span class="price">￥80000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">2天前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc0Njs2NA=="></a>
+								<span class="price">￥5000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">2天前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1NjsyNA=="></a>
+								<span class="price">￥10000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">2天前发布</span>
+								<span class="worktype txtellipsis" title="数据分析开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1NDs1MA=="></a>
+								<span class="price">￥3000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">2天前发布</span>
+								<span class="worktype txtellipsis" title="应用集成开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1Mzs5OQ=="></a>
+								<span class="price">￥15000</span>
+							</li>
+						
+							<li>
+								<span class="time txtellipsis">2天前发布</span>
+								<span class="worktype txtellipsis" title="Web应用开发">【】</span>
+								<a style="max-width:110px;" target="_blank" title="" class="txtellipsis green ordername" href="https://www.jointforce.com/jfportal/all/detail/NTc1Mjsw"></a>
+								<span class="price">￥100000</span>
+							</li>
+						 
+						-->
+						</ul>
+					</div>
+					<div class="spacer4"></div>
+				</div>
+			</div>
+
+			<div class="clear"></div>
+			<div class="spacer8"></div>
+			
+			<div>
+				<div class="header">
+					<h1>找技术人才</h1>
+					<div class="clear"></div>
+				</div>
+				<div class="new_supp_talent">
+					<div class="spacer8"></div>
+					<ul>
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_WEBAPP');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_WEBAPP"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">24800+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="Web应用开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="Web应用开发">Web应用开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_MAPP');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_MAPP"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">13000+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="移动应用开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="移动应用开发">移动应用开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_OPD');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_OPD"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">5400+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="微信开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="微信开发">微信开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_DAPP');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_DAPP"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">5600+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="桌面应用开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="桌面应用开发">桌面应用开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_SD');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_SD"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">4500+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="系统分析设计"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="系统分析设计">系统分析设计</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_DAD');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_DAD"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">5600+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="数据分析开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="数据分析开发">数据分析开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_AID');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_AID"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2700+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="应用集成开发"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="应用集成开发">应用集成开发</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_UEUI');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_UEUI"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">4700+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="UE/UI设计"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="UE/UI设计">UE/UI设计</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_SUITE');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_SUITE"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2300+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="套装软件实施(如ERP)"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="套装软件实施(如ERP)">套装软件实施(如ERP)</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_PRESALE');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_PRESALE"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2000+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="售前咨询"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="售前咨询">售前咨询</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_TEST');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_TEST"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">7100+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="测试"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="测试">测试</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_TRAIN');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_TRAIN"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2600+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="培训"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="培训">培训</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_SYS');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_SYS"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2600+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="系统软件配置/调优"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="系统软件配置/调优">系统软件配置/调优</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_NET');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_NET"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2100+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="网络硬件实施/调优"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="网络硬件实施/调优">网络硬件实施/调优</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_EDITOR');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_EDITOR"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2000+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="编辑/翻译/资料录入"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="编辑/翻译/资料录入">编辑/翻译/资料录入</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_ITOM');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_ITOM"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">3400+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="IT运维"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="IT运维">IT运维</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_PM');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_PM"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">6700+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="项目管理"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="项目管理">项目管理</span></p>
+							</a>
+						</li>
+						
+						
+						
+						<li>
+							<a title="找技术人才" 
+							href="javascript:void(0);" onclick="workstyle('WT_OPR');">
+							<div class="icon">
+								<i class="icon_talent_ios">
+										<em class="technical_talents WT_OPR"> </em> 
+								</i>
+								<p class="white aligncenter font14" style="padding-top:16px;">2900+</p>
+								<p class="white aligncenter font14">人</p>
+							</div>
+							<p class="type font14 gray" title="运营"><span style="display: inline-block; overflow: hidden; height: 20px; width: 90%;" title="运营">运营</span></p>
+							</a>
+						</li>
+						
+						
+						
+						 
+					</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
+
+		</div>
+		<div id="hpnewright">
+			<div class="hpnewrightbox">
+			
+			
+			
+			
+				<div class="newhd">
+				  
+				
+				<!-- 
+									
+				
+				 <a href="http://land.jointforce.com/jfactivity/quiz6" target="_blank">
+							<img src="https://www.jointforce.com/styles/extends/market/images/newhd.png" />
+						</a>
+						
+						 -->
+
+				</div>
+				<div class="hpnewfg"></div>
+				<h1 class="title">杰微刊，助杰客学艺练级</h1>
+				<div class="hpnewtop">
+					<ul>
+						
+							<li>
+								<div class="photoandintro_photo"><a href="http://www.jointforce.com/jfperiodical/news/983" target="_blank"><img src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfperiodical/attached/logos/news/1886222918.jpg" ></a></div>
+								<div class="photoandintro_intro">
+									<h2><a target="_blank" href="http://www.jointforce.com/jfperiodical/news/983">小心计算机视觉综合症</a></h2>
+									<div class="spacer8"></div>
+									<div class="hpnewtxt">任何每天花三个小时或更多时间对着显示器的人，都有可能患上计算机视觉综合症</div>
+								</div>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								<div class="photoandintro_photo"><a href="http://www.jointforce.com/jfperiodical/news/981" target="_blank"><img src="https://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfperiodical/attached/logos/news/1124875314.jpg" ></a></div>
+								<div class="photoandintro_intro">
+									<h2><a target="_blank" href="http://www.jointforce.com/jfperiodical/news/981">印度超美国成为互联网第二大国</a></h2>
+									<div class="spacer8"></div>
+									<div class="hpnewtxt">享有“互联网女皇”美誉的玛丽·米克尔(Mary Meeker)于今天发布了2016年互联网趋势报告。在报告中指出印度互联网用户达到2.77亿人，已经超过美国成为仅次于中国的互联网第二大国，此外在报告中还表明印度是互联网使用率增长最快的国家，增幅达40%，而在此期间全球其他国家的平均增速只有7%。印度的体量已经变得非常庞大，推动全球网民数量增加2%。</div>
+								</div>
+								<div class="clear"></div>
+							</li>
+						 
+					</ul>
+				</div>
+<!-- 				<h1 class="title">大话程序员，最懂你的是我</h1> -->
+				<div class="hpnewbot">
+					<ul>
+						
+							<li class="txtellipsis"><a target="_blank" title="Linux 新手要了解的十个知识点" href="http://www.jointforce.com/jfperiodical/article/1909">Linux 新手要了解的十个知识点</a></li>
+						
+							<li class="txtellipsis"><a target="_blank" title="[译]当规模到亿级，MySQL是一个更好的NoSQL" href="http://www.jointforce.com/jfperiodical/article/1878">[译]当规模到亿级，MySQL是一个更好的NoSQL</a></li>
+						
+							<li class="txtellipsis"><a target="_blank" title="原生JS判断密码强弱" href="http://www.jointforce.com/jfperiodical/article/1901">原生JS判断密码强弱</a></li>
+						
+							<li class="txtellipsis"><a target="_blank" title="EntityFramework优缺点" href="http://www.jointforce.com/jfperiodical/article/1892">EntityFramework优缺点</a></li>
+						
+							<li class="txtellipsis"><a target="_blank" title="阿里撤资神州背后故事：柳青在阿里待了两天两夜" href="http://www.jointforce.com/jfperiodical/article/1916">阿里撤资神州背后故事：柳青在阿里待了两天两夜</a></li>
+						
+							<li class="txtellipsis"><a target="_blank" title="戴尔商用客户端解决方案 将创新进行到底" href="http://www.jointforce.com/jfperiodical/article/1915">戴尔商用客户端解决方案 将创新进行到底</a></li>
+						
+					</ul>
+					<p class="alignright"><a target="_blank" href="http://www.jointforce.com/jfperiodical/openhome?m=d03" class="blue">进入练级&gt;</a></p>
+					<div class="spacer8"></div>
+					<div class="spacer8"></div>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="spacer8"></div>
+		<div class="spacer8"></div>
+
+		<div>
+			<!-- 找接包团队 -->
+			<div class="teams">
+				<div class="header">
+					<h1>找接包企业/团队</h1>
+					<div class="clear"></div>
+				</div>
+				<div id="teamList" class="ksliderimg_theme_b">
+				<div class="kslideimg_btnleft"><i></i></div>
+				<div class="kslideimg_list">
+				<ul class="teamslist" >
+				
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MjA2MDs4NQ==" target="_blank">
+							<p>
+								
+									
+										<img alt="北京内圈科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/2060'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="北京内圈科技有限公司">北京内圈科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=OTM0OzQ2" target="_blank">
+							<p>
+								
+									
+										<img alt="深圳市瑞尚科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/934'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="深圳市瑞尚科技有限公司">深圳市瑞尚科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=ODQ4MDs5Mg==" target="_blank">
+							<p>
+								
+									
+										<img alt="上海玉荔网络科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/8480'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="上海玉荔网络科技有限公司">上海玉荔网络科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">30名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">4年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NTk1ODs3MQ==" target="_blank">
+							<p>
+								
+									
+										<img alt="汇森科技团队" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/5958'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="汇森科技团队">汇森科技团队</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">7名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">5年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=ODY1Mzs4Nw==" target="_blank">
+							<p>
+								
+									
+										<img alt="北京才富通科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/8653'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="北京才富通科技有限公司">北京才富通科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">20名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">5年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NjMwNjsy" target="_blank">
+							<p>
+								
+									
+										<img alt="小蜜蜂团队" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/6306'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="小蜜蜂团队">小蜜蜂团队</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">3名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">5年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NzYxOTszOA==" target="_blank">
+							<p>
+								
+									
+										<img alt="麦穗时代软件" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/7619'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="麦穗时代软件">麦穗时代软件</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">51名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">10年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NTE3Ozc3" target="_blank">
+							<p>
+								
+									
+										<img alt="AppFish Studio" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/517'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="AppFish Studio">AppFish Studio</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">7名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">7年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MjM5ODs4NA==" target="_blank">
+							<p>
+								
+									
+										<img alt="上海阳橙信息科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/2398'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="上海阳橙信息科技有限公司">上海阳橙信息科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">6名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">8年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NTQzNTszMQ==" target="_blank">
+							<p>
+								
+									
+										<img alt="大城技术（BigCity）" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/5435'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="大城技术（BigCity）">大城技术（BigCity）</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">20名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">6年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=ODcyMzs2OA==" target="_blank">
+							<p>
+								
+									
+										<img alt="天津提恩科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/8723'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="天津提恩科技有限公司">天津提恩科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">10名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">2年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NDkzOzU=" target="_blank">
+							<p>
+								
+									
+										<img alt="文甲网络" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/493'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="文甲网络">文甲网络</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">6名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">3年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MTIyOTs4OQ==" target="_blank">
+							<p>
+								
+									
+										<img alt="北京会欣互动信息技术有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/1229'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="北京会欣互动信息技术有限公司">北京会欣互动信息技术有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">67名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">8年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MTE2NTsyNQ==" target="_blank">
+							<p>
+								
+									
+										<img alt="上行线" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/1165'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="上行线">上行线</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">15名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">4年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NjU5OTs5Ng==" target="_blank">
+							<p>
+								
+									
+										<img alt="北京交互工场科技有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/6599'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="北京交互工场科技有限公司">北京交互工场科技有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">20名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">5年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MzU1OTszMA==" target="_blank">
+							<p>
+								
+									
+										<img alt="2L设计" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/3559'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="2L设计">2L设计</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">11名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">4年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MjkwNTsyMw==" target="_blank">
+							<p>
+								
+									
+										<img alt="风泽科技" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/2905'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="风泽科技">风泽科技</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">13名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">2年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=ODQ1MDsxMg==" target="_blank">
+							<p>
+								
+									
+										<img alt="上海龙照电子有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/8450'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="上海龙照电子有限公司">上海龙照电子有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">100名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">12年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NzM0MDs0NA==" target="_blank">
+							<p>
+								
+									
+										<img alt="Then团队" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/7340'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="Then团队">Then团队</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">30名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">3年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=NjM0NzszMA==" target="_blank">
+							<p>
+								
+									
+										<img alt="iCode云科技工作室" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/6347'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="iCode云科技工作室">iCode云科技工作室</span>
+							
+								
+								
+								<i class="logo_team_tag"></i>
+								
+							
+							</p>
+						</a>
+						
+						<span class="floatleft member">成员：<em class="orange">10名</em></span>
+						
+						
+						<span class="floatright experise">平均经验：<em class="orange">3年</em></span>
+						
+					</li>
+					
+					<li>
+						
+						<a href="https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret=MTk5MDsy" target="_blank">
+							<p>
+								
+									
+										<img alt="北京中京通达（网络科技）有限公司" src='https://www.jointforce.com/jfhrm/buenterprise/officiallogo/1990'/>
+									
+									
+								
+							</p>
+							<p>
+							<span class="teams_name txtellipsis" title="北京中京通达（网络科技）有限公司">北京中京通达（网络科技）有限公司</span>
+							
+								
+								<i class='logo_bu_tag'></i>
+								
+								
+							
+							</p>
+						</a>
+						
+						
+					</li>
+					
+				</ul>
+				</div>
+				<div class="kslideimg_btnright on"><i></i></div>
+				</div>
+			</div>
+			<!-- 接包达人 -->
+			<div class="dr">
+				<div class="drtabs">
+					<div id="t-drB" class="active">接包企业榜</div>
+					<div id="t-drD">接包明星榜</div>
+				</div>
+				<div class="drcon">
+					<div id="drB" class="dr_b">
+						<ul class="drlist">
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="广州潺智信息科技有限公司" onclick='qyOpen("MTQ1MTsyNw==" )' style="cursor:pointer;" class="dr_name txtellipsis">广州潺智信息科技有限公司</a>
+								
+								<span class="dr_price red txtellipsis">￥2,187,700.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="习特(上海)信息技术有限公司" onclick='qyOpen("MzUyNzs0MA==" )' style="cursor:pointer;" class="dr_name txtellipsis">习特(上海)信息技术有限公司</a>
+								
+								<span class="dr_price red txtellipsis">￥1,016,000.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="北京天易诚科技有限公司" onclick='qyOpen("MTk3Njs0" )' style="cursor:pointer;" class="dr_name txtellipsis">北京天易诚科技有限公司</a>
+								
+								<span class="dr_price red txtellipsis">￥720,000.00</span>
+								<div class="clear"></div>
+							</li>
+						
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="长沙泰伯信息科技有限公司" onclick='qyOpen("NjY2ODs1NA==" )' style="cursor:pointer;" class="dr_name txtellipsis">长沙泰伯信息科技有限公司</a>
+								
+								<span class="dr_price txtellipsis">￥613,335.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="北京凯飞互联科技服务有限公司" onclick='qyOpen("MzE3ODszNQ==" )' style="cursor:pointer;" class="dr_name txtellipsis">北京凯飞互联科技服务有限公司</a>
+								
+								<span class="dr_price txtellipsis">￥552,140.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+								
+									<i class="icon_dr_c" title="企业"></i>
+									<a  title="沈阳软联科技有限公司" onclick='qyOpen("NzA3NDs0Mw==" )' style="cursor:pointer;" class="dr_name txtellipsis">沈阳软联科技有限公司</a>
+								
+								<span class="dr_price txtellipsis">￥471,800.00</span>
+								<div class="clear"></div>
+							</li>
+						
+						</ul>
+					</div>
+					<div id="drD" class="dr_d" style="display:none;">
+						<ul class="drlist">
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">淡墨诗雪</span>
+								
+								<span class="dr_price red txtellipsis">￥405,000.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">蒲楠</span>
+								
+								<span class="dr_price red txtellipsis">￥324,000.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">浩浩</span>
+								
+								<span class="dr_price red txtellipsis">￥250,000.00</span>
+								<div class="clear"></div>
+							</li>
+						
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">飞码</span>
+								
+								<span class="dr_price txtellipsis">￥206,850.00</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">金保二货</span>
+								
+								<span class="dr_price txtellipsis">￥161,914.89</span>
+								<div class="clear"></div>
+							</li>
+						
+							<li>
+								
+									<i class="icon_dr_d" title="个人"></i>
+		
+									<span class="dr_name txtellipsis">银河cx1</span>
+								
+								<span class="dr_price txtellipsis">￥156,213.00</span>
+								<div class="clear"></div>
+							</li>
+						
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		<!-- 我们的客户
+		<div class="ourcoustomer">
+			<div class="header">
+				<h1>我们的客户</h1>
+				<div class="clear"></div>
+			</div>
+			<div class="ourcoustomer_con">
+				<ul class="floatleft">
+					<li>
+						<a href="#">
+							<div class="opacitydiv"></div>
+							<img src="http://fanyi.baidu.com/static/i18n/zh/widget/translate/head/logo/logo_16ea8bb7.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<div class="opacitydiv"></div>
+							<img src="http://fanyi.baidu.com/static/i18n/zh/widget/translate/head/logo/logo_16ea8bb7.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<div class="opacitydiv"></div>
+							<img src="http://fanyi.baidu.com/static/i18n/zh/widget/translate/head/logo/logo_16ea8bb7.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<div class="opacitydiv"></div>
+							<img src="http://fanyi.baidu.com/static/i18n/zh/widget/translate/head/logo/logo_16ea8bb7.png" />
+						</a>
+					</li>
+				</ul>
+				<div class="thesay">
+					<div class="con">平台接包方数量多，员很专业，服务态度好，反馈及时，整体体验良好！平台相关功能的页面操作简捷性和界面体验有待提升，简洁明了会更方便。</div>
+					<div class="spacer8"></div>
+					<p class="font14 orange">北京荣之联科技股份有限公司  关总</p>
+				</div>
+			</div>
+		</div> -->
+
+		<!-- 友情链接 -->
+		
+		
+
+	</div>
+</div>
+
+<div id="ks-about">
+	<div id="ks-about-width">
+		<ul>
+			<li>
+				<div class="box">
+					<h1>关于</h1>
+					<p><a href="https://www.jointforce.com/help/aboutus.html" target="_blank">关于我们</a></p>
+					<p><a href="https://www.jointforce.com/rule" target="_blank">平台须知</a></p>
+					<p><a href="https://www.jointforce.com/help/security.html" target="_blank">安全声明</a></p>
+				</div>
+			</li>
+			<li>
+				<div class="box">
+					<h1>作为发包方</h1>
+					<p><a target="_blank" href="https://www.jointforce.com/help/cwfbf.html">成为发包方</a></p>
+					<p><a target="_blank" href="https://www.jointforce.com/help/fbzn.jsp">发包指南</a></p>
+					<p><a target="_blank" href="https://www.jointforce.com/help/wglrm.html">项目管理入门</a></p>
+				</div>
+			</li>		
+			<li>
+				<div class="box">
+					<h1>作为接包方</h1>
+					<p><a target="_blank" href="https://www.jointforce.com/help/cwjbf.html">成为接包方</a></p>
+					<p><a target="_blank" href="https://www.jointforce.com/help/jbzn.html">接包指南</a></p>
+										
+				</div>
+			</li>	
+			<li>
+				<div class="box">
+					<h1>支持</h1>
+					<p><a href="https://www.jointforce.com/jfportal/bbs?t=services&fid=150" target="_blank">问题反馈</a></p>
+					<p><a target="_blank" href="https://www.jointforce.com/help/index.html">问题中心</a></p>
+					<p><a target="_blank" href="https://www.jointforce.com/rule">规则中心</a></p>				
+				</div>
+			</li>
+			<li>
+				<div class="box" style="border-left:1px solid #e6e6e6">
+					<h1>服务热线</h1>
+					<p>400-064-0003 (9:00-23:00)</p>
+					<div class="spacer8"></div>
+					<h1>微信公众号</h1>
+					<div style="display:inline-block;"><img style="width:115px" src="https://www.jointforce.com/styles/images/wxgzh.jpg" /></div>
+				</div>
+			</li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+</div>	
+<div id="indexfoot">
+	<div class="indexfoot">
+		<div class="floatleft">Copyright &copy; 2013-<em id="nowyear">2015</em> 北京掌中无限信息技术有限公司</div>
+		<div class="floatright">京ICP证041626号</div>
+		<div class="clear"></div>
+	</div>
+</div>
+	 
+<!-- 登录 -->
+<div id="loginbg" style="display:none;"></div>
+<div id="b-reg-login" style="display:none;">
+	   <div class="b-login-div">
+	   	<div class="login-close" id="login-btn-close"></div>
+		<div class="login-head-logo"><span id="logo">用户登录</span></div>					
+		<div style="" class="ks-login" id="ks-login">
+		<!-- 登录标题 -->
+		<!-- 登录标题END -->
+		<!--  登录form开始  -->
+					<form name="loginFrm" id="loginFrm" method="post" action='https://www.jointforce.com/login'>
+							<input type="hidden" value="" id="linkpage" name="linkpage">
+							<input type="hidden" value="" id="target" name="target">
+							<input type="hidden" id="requestId" name="requestId" value="8a63cf00-042e-41fa-9290-3feeab8b5609" />
+							<input type="hidden" name="src" id="src" value=""/>
+							<div id="errorbox" class="errorbox" style="display: none;">
+								<i>!</i>
+								<span></span>
+							</div>
+							<div class="control-group">
+								<div class="controls">
+									<i class="login_icon_account_b"></i><input type="text" placeholder="请输入注册手机号/绑定邮箱/解放号" onKeyDown="keyDownEvent(event)" value="" class="text login-user" id="j_loginid" name="j_loginid" autocomplete="off">
+									 <div id="msg_id" class="errorfield"></div>									
+								</div>
+								<div class="clear"></div>
+							</div>
+						  	<div class="control-group">
+								<div class="controls">
+									<i class="login_icon_password_b"></i><input type="password" placeholder="请输入密码" onKeyDown="keyDownEvent(event)" class="text login-pw" id="j_password" name="j_password">						
+									<div id="msg" class="errorfield" style="display: none;"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							
+							
+							
+							
+							<div class="auto-login">
+								<div class="spacer8"></div>
+								<a target="_self" class="floatleft" id="forget-password" href='https://www.jointforce.com/resetPassword'>忘记密码?</a>	
+								<span class="floatright"><a id="register-forhome" target="_self" href="https://www.jointforce.com/register" class="">立即注册</a></span>
+								<div class="clear"></div>
+								<div class="spacer8"></div>
+							</div>
+							<div class="control-group">
+								<div class="controls">
+									<div onClick="submitForm()" class="btn-login-b"  type="button" id="submit_button">										
+										<span class="bold">登录</span>										
+									</div>
+								</div>
+							</div>
+							<div class="control-group">
+								<div class="controls" style="float:left">
+									其它方式登录 <a href="https://www.jointforce.com/quick/auth" target="_blank"><img src="https://www.jointforce.com/styles/extends/loginreg/images/qq-icon.png" style="width:24px;height:24px"/></a>
+									 &nbsp;<a href="https://www.jointforce.com/quick/wxauth" target="_blank"><img src="https://www.jointforce.com/styles/extends/loginreg/images/weixin.png" style="width:24px;height:24px"/></a>		
+								</div>
+							</div>
+					</form>
+					<!--  登录form结束  -->
+				</div>
+			
+
+		</div>
+	</div>
+<!-- 解放之旅视频 -->
+<div id="videolayout"></div>
+<div id="videobox">
+   <video id="video720" style="text-align:center" width="640" height="" controls poster="https://www.jointforce.com/styles/extends/loginreg/images/videoposter.jpg">
+      <source src="http://jf-bucket-public.oss-cn-qingdao.aliyuncs.com/jfportal_web/1.mp4" type='video/mp4' />
+      <div  class="cantvideo" ></div>
+     </video>
+	<div class="videoclose"></div>
+</div>
+<form id="wrokStyleForm" name="wrokStyleForm" method="POST">
+	<input type="hidden" id="workStyleQueryData" name="workTypeCode"/>
+</form>
+
+
+<link rel="stylesheet" type="text/css" href="/styles/extends/loginreg/channel.css"/>
+<div class="channel-wrapper clearfix">
+    <div class="channel-botton-fixed clearfix">
+    <div class="channel clearfix">
+        <div class="channel-left">
+            <div class="left-ico"></div>
+            <div class="leftTxt">
+                <h1>登记需求，预约发包顾问为您服务</h1>
+                <p>1分钟快速登记，2小时快速响应</p>
+            </div>
+        </div>
+        <div class="channel-right">
+            <form id="bookOrderForm" enctype="multipart/form-data" method="post">
+                <div class="row-iphone">
+                    <span class="span"></span>
+                    <input type="text" name="mobile" placeholder="您的手机号" />
+                </div>
+                <div class="row-username">
+                    <span class="span"></span>
+                    <input type="text" name="name" placeholder="您的称呼" />
+                </div>
+            </form>
+            <button id="bookOrder" type="submit">立即登记</button>
+            <span class="channel-close"></span>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="channel-min" style="cursor: pointer">
+    <div class="minImg"></div>
+    <p>立即预约发包顾问</p>
+    <span class="openChannel"></span>
+</div>
+<script type="text/javascript" src="/js/extends/bookorder/bookorder.ext.js"></script>
+<script type="text/javascript">
+!function(){
+    $w=$(".channel-wrapper").width();
+    $(".channel-right span.channel-close").on("click",function(){
+        $(".channel-wrapper").animate({
+            left: -$w
+        }, 500,function(){
+            $(".channel-min").animate({
+                left: "-10px"
+            }, 100);
+        } );
+    })
+    $(".channel-min").on("click",function(){
+        $(".channel-min").animate({
+            left: "-254px"
+        }, 100,function() {
+            $(".channel-wrapper").animate({
+                left: 0
+            }, 500)
+        });
+    })
+    function emptyF($this){
+		if($($this).css("color")=="rgb(255, 0, 0)"){
+			$($this).val($($this).attr("data")).css({"color":"#666","border-color":"#ccc"});
+		}
+	}
+	$("input").focus(function(){
+		emptyF($(this))
+	});
+}();
+$("#bookOrder").click(function(){
+	if($("input[name=mobile]").css("color")=="rgb(255, 0, 0)" || $("input[name=name]").css("color")=="rgb(255, 0, 0)"){
+		return ;
+	}
+	/*手机号码验证*/
+	var mobile = $("input[name=mobile]").val();
+	var mobile86 =  /^[1]\d{10}$/g, //中国大陆手机
+	mobile852 = /^[1-9]\d{7}$/g; //中国香港手机
+	if(mobile==""){
+		$("input[name=mobile]").val("请填写您的手机号").css({"color":"red","border-color":"red"});
+		return ;
+	}else if(!mobile86.test(mobile)){
+		$("input[name=mobile]").val("请填写真实手机号").css({"color":"red","border-color":"red"}).attr("data",mobile);
+		return ;
+	}else{
+		$("input[name=mobile]").css({"color":"#666","border-color":"#ccc"});
+	}
+	/*您的称呼验证*/
+	var name = $("input[name=name]").val();
+	var counter=name.length;
+	if(name==""){
+		$("input[name=name]").val("请填写您的称呼").css({"color":"red","border-color":"red"});
+		return ;
+	}else if(counter>10){
+		$("input[name=name]").val("不超过10个字").css({"color":"red","border-color":"red"}).attr("data",name);
+		return ;
+	}else{
+		$("input[name=name]").css({"color":"#666","border-color":"#ccc"});
+	}
+	$bookOrder.init("JF_WEB_INDEX",mobile,name,"");
+});
+/* $(window).scroll(function (){
+    var $st = $(this).scrollTop();
+    if($(document).height()<1000){
+        $(".channel-wrapper").show();
+        $(".channel-min").show();
+    }else{
+        if($st==10||$st>10){
+            $(".channel-wrapper").show();
+            $(".channel-min").show();
+        }else{
+            $(".channel-wrapper").hide();
+            $(".channel-min").hide();
+        }
+    }
+}); */
+
+</script>
+
+<script type="text/javascript" src="/js/extends/validateExtend/validateExtend.js"></script>
+<script type="text/javascript" src="/js/extends/kslider/carousel.js"></script>
+<script type="text/javascript" src="/js/extends/kslider/kslider-index.js"></script>
+<script type="text/javascript" src="/js/extends/cxscroll/jquery.cxscroll.min.js"></script>
+<script type="text/javascript">
+function setImgMargin(){
+	var bw = $("body").width();
+	var imgw = 1920;
+	var curMarg = "";
+	if(bw < 1920){
+		curMarg = (Math.round((bw-imgw)/2)+"px");
+		$(".carousel-inner img").css("margin-left",curMarg);
+	}else {
+		$(".carousel-inner img").css("margin","0 auto");
+	}
+	
+}
+
+(function(){
+	$("#kslb-img0").attr("src",'https://www.jointforce.com/styles/extends/loginreg/images/hpshow1.jpg');
+	$("#kslb-img0").load(function(){
+		$("#kslb-img1").attr("src","https://www.jointforce.com/styles/extends/loginreg/images/hpshow2.jpg");
+	});
+	$('.carousel').carousel({
+		interval: 5000
+// 		number:[1],
+// 		stay:2
+	});
+	setImgMargin();
+	
+
+	//默认填充上次登录的用户名
+	if(getCookie("j_loginid")!=null){
+		document.getElementById("j_loginid").value=getCookie("j_loginid");
+	}
+
+	$("#jchat").remove();
+	var jumpSourceVal = location.href;
+	if(jumpSourceVal.indexOf("jumpSource")>-1){
+		$("#b-reg-login").show();
+		$("#loginbg").show();
+	}
+
+})();
+
+var bbs="";
+if(bbs=='bbs'){
+	$("#b-reg-login").show();
+	$("#loginbg").show();
+	$("#j_loginid").focus();
+}
+
+//切换发接包
+$(".hptabs div").hover(function(){
+	$(".hptabs div").removeClass("active");
+	$(this).addClass("active");
+
+	var square = $("#hptabs-square");
+	if($(this).attr("id") == "hptabs-d"){
+		square.stop().animate({
+			left:745
+		},300,function(){
+			square.css("background","#f0f0f4");
+		});
+		$("#hpc-d").show();
+		$("#hpc-b").hide();
+	}else if($(this).attr("id") == "hptabs-b"){
+		square.stop().animate({
+			left:415
+		},300,function(){
+			square.css("background","#fff");
+		});
+		$("#hpc-b").show();
+		$("#hpc-d").hide();
+	}
+})
+$(".hptabs div").click(function(){
+	var h = $("#hpshow").height()+7;
+	if($('body').scrollTop() <100){
+		$('body').animate({scrollTop: h},300);
+	}
+	if($('html').scrollTop() <100){
+		$('html').animate({scrollTop: h},300);
+	}
+})
+
+//登录窗口隐藏
+$("#login-btn-close").click(function(){
+	$("#b-reg-login,#loginbg").hide();
+	$("#ksinput_j_loginid,#ksinput_j_password").remove();
+})
+//登录窗口显示
+$("#btn-login-show").click(function(){
+	$("#b-reg-login").show();
+	$("#loginbg").show();
+	$("#register-forhome").attr("href","https://www.jointforce.com/register?f=JF_JY_SY");
+	kS.setplaceholder("j_loginid");
+	kS.setplaceholder("j_password");
+	$("#ksinput_j_loginid,#ksinput_j_password").css({"z-index":"100008","position":"fixed","width":"238"})
+})
+$("body").keyup(function(e){
+	if(e.keyCode == "27" && $("#loginbg").css("display")!="none"){
+		$("#b-reg-login,#loginbg").hide();
+		$("#ksinput_j_loginid,#ksinput_j_password").remove();
+	}
+})
+window.onresize=function(){
+	$("#ksinput_j_loginid,#ksinput_j_password").remove();
+	kS.setplaceholder("j_loginid");
+	kS.setplaceholder("j_password");
+	$("#ksinput_j_loginid,#ksinput_j_password").css({"z-index":"100008","position":"fixed","width":"268"})
+
+	setImgMargin();
+}
+
+//-----------登录验证-------------
+  $("#msg").hide();
+  var defaultValue = "不区分大小写";
+  var usedVerifyCode = "false";
+
+  document.getElementById("j_password").onkeypress=function(event){	//回车提交表单KS
+      var e = event || window.event;         
+       if(e && e.keyCode==13){
+    	   submitForm();
+      }
+  }; 
+
+  function submitForm(){
+	var name = loginFrm.j_loginid.value;
+	var pass = loginFrm.j_password.value;
+	if($("#requestId").val()!=""){
+		document.loginFrm.action='https://www.jointforce.com/oauth2/authorize';
+	}else{
+		document.loginFrm.action='https://www.jointforce.com/login';
+	}
+	if(name==null || name==""){
+		//alert("帐号不能为空");
+		//$("#errorbox")
+		//$("#msg_id").html("帐号不能为空").show();
+		$("#errorbox").slideDown(500,function(){
+			$("#ksinput_j_password,#ksinput_j_loginid").remove();
+			kS.setplaceholder("j_loginid");
+			kS.setplaceholder("j_password");
+			$("#ksinput_j_password,#ksinput_j_loginid").css("z-index","9999").css("width","238")
+		});
+		$("#errorbox span").attr("id","span-login").html("帐号不能为空");
+		$("#j_loginid").focus();
+		return false;
+	}
+	name =  name.replace(/\s+/g, "");
+	
+	if(pass==null || pass==""){
+		//alert("密码不能为空");
+		//$("#msg").html("密码不能为空").show();
+		$("#errorbox").slideDown(500,function(){
+			$("#ksinput_j_password,#ksinput_j_loginid").remove();
+			kS.setplaceholder("j_loginid");
+			kS.setplaceholder("j_password");
+			$("#ksinput_j_password,#ksinput_j_loginid").css("z-index","9999").css("width","238")
+		});
+		$("#errorbox span").attr("id","span-password").html("密码不能为空");
+		$("#j_password").focus();
+		return false;
+	}
+	if(usedVerifyCode=="true"){
+		var verifycode =loginFrm.verifyCode.value;
+		if(verifycode==null || verifycode==""){
+			//alert("验证码不能为空");
+			$("#errorbox").slideDown(500);
+			$("#errorbox span").attr("id","span-verify").html("验证码不能为空");
+			return false;
+		}
+	}
+	if(isChinese(name)){
+		$("#errorbox").slideDown(500);
+		$("#errorbox span").attr("id","span-verify").html("账号不存在，建议使用手机号登录");
+		return false;
+	}
+	var pwdIsEncrypt="false";
+	if("true"==pwdIsEncrypt){
+		pass=new Base64().encode(pass);
+	}
+	loginFrm.j_password.value = pass;
+	document.getElementById("j_loginid").value=name;
+	document.getElementById("j_password").value=pass;
+	setCookie("j_loginid",name);
+   	document.loginFrm.submit();
+   	$("#submit_button span.bold").html("登录中...");
+   	$("#submit_button").removeAttr("onclick");
+  }
+
+  function canSubmit(){
+		var name = loginFrm.j_loginid.value;
+		var pass = loginFrm.j_password.value;
+		if(name!="" && pass!=""){
+			return true;
+		}else{
+			return false;
+		}
+  }
+
+  function keyDownEvent(evt){    
+        var e = evt;  
+	    if(e.keyCode==13 && canSubmit()){
+			submitForm('',false);
+			
+		}
+  }
+  
+  function setCookie(name,value){
+	  try{ 
+	      var Days = 1000; 
+	      var exp  = new Date();    //new Date("December 31, 9998");
+	      exp.setTime(exp.getTime() + Days*24*60*60*1000);
+	      document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
+	  }catch(e){
+	  }
+  }
+    
+  function getCookie(name){//取cookies函数
+      var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+       if(arr != null) return unescape(arr[2]); return null;
+  }
+
+  function delCookie(name){//删除cookie
+      var exp = new Date();
+      exp.setTime(exp.getTime() - 1);
+      var cval=getCookie(name);
+      if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+  }
+
+  function rebuild(){
+	var ran = Math.floor(Math.random()*100);	
+ 	document.getElementById('verifyCodeImg').src = "/verifyCode?"+ran;
+ }
+
+  var errorMsg ="";
+  var flag="null";
+  if(flag=="sessionTimeout"){
+  	if(self !=top){
+  		window.top.location="/signOn";
+  	}
+  }
+ $(function(){
+  		if(errorMsg=="" || errorMsg=="null"){
+  			//$("#msg").hide();
+  			$("#errorbox").hide();
+  		}else{
+  	  		if(errorMsg=="登录失败：用户不存在"){
+	  	  		//$("#msg_id").html("该邮箱不存在，<a>重新注册？</a>").show();
+	  	  		//$("#msg_id").html("用户名或密码不准确，请重试").show();
+	  	  		$("#errorbox").slideDown(500);
+				$("#errorbox span").attr("id","span-login").html("用户名或密码不正确，请重试");
+	  			$("#j_loginid").css("border-color","#fac5c5");
+  	  	  	}else if(errorMsg=="登录失败：密码错误"){
+	  	  		//$("#msg").text("用户名或密码不准确，请重试").show();
+	  	  		$("#errorbox").slideDown(500);
+	  	  		$("#errorbox span").attr("id","span-password").html("用户名或密码不正确，请重试");
+	  			$("#j_password").css("border-color","#fac5c5");
+  	  	  	}else{
+  	  	  	  	if(errorMsg == '帐号未激活，请先激活帐号'){
+  	  	  	  		$("#errorbox").slideDown(500);
+  	  	  	  		$("#errorbox span").attr("id","span-verify").html("帐号未激活，请先<a href='javascript:void(0);' onclick='_active();' style='color: blue;' >激活帐号</a>");
+  	  	  	  	}else if(errorMsg == '帐号已被锁定'){
+  	  	  	  		$("#errorbox").slideDown(500);
+  	  	  			$("#errorbox span").attr("id","span-verify").html("帐号已被锁定，您可以<a href='/resetPassword' onclick='_active();' style='color: blue;' >找回密码</a>");
+  	  	  	  	}else {
+		  	  		//$("#msg_id").html(errorMsg).show();
+  	  	  	  		$("#errorbox").slideDown(500);
+  	  	  	 		$("#errorbox span").attr("id","span-verify").html(errorMsg);
+  	  	  	  	}
+	  			$("#verifyCode").css("border-color","#fac5c5");
+  	  	  	  }
+	  	  	var name=getCookie("j_loginid");
+  	  		document.getElementById("j_loginid").value=name;
+  		}
+
+  	})
+  	
+$(function(){
+    if($("#requestId").val()!=""){
+    	$("#b-reg-login").show();
+    	$("#loginbg").show();
+    }
+	if($("#errorbox span").html()!==""){
+		$("#b-reg-login").show();
+		$("#loginbg").show();
+		$("#errorbox").show();
+		if($("#errorbox span").attr("id")=="span-login"){
+			$("#j_loginid").focus();
+		}
+		else if($("#errorbox span").attr("id")=="span-password"){
+			$("#j_password").focus();
+		}
+		else if($("#errorbox span").attr("id")=="span-verify"){
+			$("#j_password").focus();
+		}
+	}
+	$("#j_loginid").keydown(function(e){
+		if(e.keyCode == 9){
+				if($(this).val()!==""){
+					$(this).css("border-color","#ccc")
+				}
+				if($("#j_password").next().html()=="请输入密码"){
+					$("#j_password").next().hide();
+				}
+		}
+		var st = $("#j_loginid").next().html();
+		if(st.indexOf("手机号")>-1){
+			$("#j_loginid").next().hide();
+		}
+	})
+	$("#j_password").keydown(function(e){
+		if(e.keyCode == 9){
+				if($(this).val()!==""){
+					$(this).css("border-color","#ccc")
+				}
+		}
+	})
+	$(".reg").prev().css("clear","inherit");
+
+// 	$("body").keypress(function(e){
+// // 		if(e.keyCode == "27"){
+// // 			alert(123)
+// // 		}
+// 	})
+
+	//首页轮播图片
+	adPic();
+
+})
+
+function _active(){
+	 window.parent.location.href = '/useraccout/active/webactive';
+ }	
+
+ 
+ function nowYear(){
+	var year = new Date().getFullYear();
+	$("#nowyear").html(year);
+}
+ nowYear();
+
+ $(".hd20150610 span").click(function(e){
+	 e.stopPropagation();
+	 $(".hd20150610").remove();
+	 return false;
+})
+setTimeout(function(){
+	$(".hd20150610").remove();
+},60*1000)
+
+//解放之旅视频
+$(".openvideo").click(function(){
+	$("#videolayout").show();
+	$("#videobox").slideDown(300,function(){
+		$("#video720").fadeIn(300);
+	});
+})
+$(".videoclose").click(function(){
+	var v = document.getElementById("video720");
+	try {
+		v.pause();
+	}catch(e){
+	}
+	
+	$("#videolayout,#videobox,#video720").hide();
+})
+
+//延迟5秒开始滚动最新需求
+function goScroll(){
+	 $('#alist').cxScroll({
+			direction: 'bottom',
+			speed: 1000,
+			step:1,
+			time: 2000,
+			auto:true,
+			plus: false,
+			minus: false
+		});
+		$('#blist').cxScroll({
+			direction: 'bottom',
+			speed: 1000,
+			step:1,
+			time: 2000,
+			auto:true,
+			plus: false,
+			minus: false
+		});
+ }
+
+window.onload=function(){
+	var logintime=(new Date()).getTime();
+	getNewPutOrders(logintime);
+	getNewBidOrders(logintime);
+	//延迟5秒开始滚动最新需求
+	setTimeout(goScroll,5000);
+	addTongji();//增加统计代码
+ } 
+function getNewPutOrders(logintime){
+	setInterval(
+		function(){ 
+			$.ajax({
+				url: "/getneworders",
+			    type: "POST",
+			    dataType: "json",
+			    data:logintime,
+			    success:function(json){
+				    var data = json.rows;
+				    var _html = "";
+				    for(var i=0;i<data.length;i++){
+				    	_html += "<li><span class='time txtellipsis'>"+data[i].timeTip+"发布</span><span class='worktype txtellipsis'>【"+data[i].tech_direction+"】</span>";
+					    _html += "<a target='_blank' href='https://www.jointforce.com/jfportal/all/detail/"+data[i].oid+"' class='green ordername'>"+data[i].onameTip+"</a>";
+					    _html += "<span class='price'>￥";
+						if(data[i].order_type=="4"){
+							_html += "";
+						}else{
+							_html += "";
+						}
+					    _html += "</span></li>";
+					}
+				    $("#blist ul").html();
+				}
+			});
+	},1000*60*5);//每隔5分钟请求最新数据
+}
+function getNewBidOrders(logintime){
+	setInterval(
+		function(){ 
+			$.ajax({
+				url: "/getnewbidorders",
+			    type: "POST",
+			    dataType: "json",
+			    data:logintime,
+			    success:function(json){
+			    	var data = json.rows;
+				    var _html = "";
+				    for(var i=0;i<data.length;i++){
+				    	_html += "<li><span class='mtime'>"+data[i].timeTip+"</span><span class='ordernameb'>"+data[i].unameTip+"<em class='pdlr4'></em>投标了";
+					    _html += "<a target='_blank' href='https://www.jointforce.com/jfportal/all/detail/"+data[i].oid+"' class='green'>"+data[i].onameTip+"</a>";
+					    _html += "<span class='price'>￥";
+						if(data[i].order_type=="4"){
+							_html += "";
+						}else{
+							_html += "";
+						}
+					    _html += "</span></li>";
+					}
+				    $("#alist ul").html();
+				}
+			});
+	},1000*60*5);//每隔5分钟请求最新数据
+}
+
+function adPic(){
+	var adpics = $(".carousel-inner .item").length;
+	var html = "";
+	for(var i=0;i<adpics; i++){
+		html += '<li data-target="#myCarousel" data-slide-to="';
+		html += i ;
+		html += '"></li>'
+	}
+	$(".carousel-indicators").append(html).find("li").eq(0).addClass("active");
+}
+function workstyle(workstyle){
+	$("#workStyleQueryData").val(workstyle);
+	$("#wrokStyleForm").attr("action","/homePage/showSourceMarket");
+	$("#wrokStyleForm").attr("target","_blank");
+	$("#wrokStyleForm").submit();
+	
+	
+}
+function qyOpen(name){
+	window.open('https://www.jointforce.com/jfhrm/team/showHome/team/info?source=homePage&buIdSecret='+name);
+}
+$(".hpnewleftbox .header a.kbtn").click(function(){
+	$("#btn-login-show").trigger("click");
+	var newUrl = "";
+	var url = $(this).attr("href");
+	if(url == "/register?f=JF_JY_SY"){//最新需求的href
+		newUrl = 'https://www.jointforce.com'+url
+	}
+	//热门需求的href
+	if(url == "/bu/register?f=JF_JY_SY"){
+		newUrl = 'https://www.jointforce.com'+url
+	}
+	$("#register-forhome").attr("href",newUrl);
+	return false;
+})
+$("#t-drB").hover(function(){
+	$("#t-drD").removeClass("active");
+	$("#t-drB").addClass("active");
+	$("#drD").hide();
+	$("#drB").show();
+})
+$("#t-drD").hover(function(){
+	$("#t-drB").removeClass("active");
+	$("#t-drD").addClass("active");
+	$("#drB").hide();
+	$("#drD").show();
+})
+
+
+function addTongji(){
+	var rpath = 'https://www.jointforce.com';
+	if(rpath.match("www.jointforce.com") || rpath.match("rc.jointforce.com")){
+		   var js = document.createElement( "script" )
+		   js.src = "https://www.jointforce.com/tongji/resources/hm.js?random=" + Math.random();
+		   document.body.appendChild(js);
+	}	
+}
+
+/**
+ * 判断是否包含中文
+ */
+function isChinese(v){
+	if(/.*[\u4e00-\u9fa5]+.*$/.test(v)){
+		return true;
+	}
+	return false;
+}
+$("#teamList").kslider(5)
+
+function autoScroll(obj){  
+	if($(obj).find("ul li").length>1){
+		if(!$(obj).find("ul").attr("active")){
+		   $(obj).find("ul").animate({  
+		       marginTop : "-30px"  
+		   },500,function(){  
+		       $(this).css({marginTop : "0px"}).find("li:first").appendTo(this);  
+		   }) 
+	   } 
+    }
+}  
+$("#hpnotice .dnotice a").hover(function(){
+	$(this).parents("ul").attr("active","1");
+},function(){
+	$(this).parents("ul").removeAttr("active");
+})
+$(function(){  
+   setInterval('autoScroll("#hpnotice .dnotice")',3000)  
+})
+</script>
+</body>
+</html>

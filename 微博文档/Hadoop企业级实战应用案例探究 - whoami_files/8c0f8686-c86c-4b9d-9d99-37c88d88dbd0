@@ -1,0 +1,698 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>whoami</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    
+    <meta name="author" content="whoami">
+    
+
+    
+    <meta name="description" content="whoami whoami个人推文 whoami个人博客 itweet.cn ...">
+<meta property="og:type" content="website">
+<meta property="og:title" content="whoami">
+<meta property="og:url" content="http://www.itweet.cn/index.html">
+<meta property="og:site_name" content="whoami">
+<meta property="og:description" content="whoami whoami个人推文 whoami个人博客 itweet.cn ...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="whoami">
+<meta name="twitter:description" content="whoami whoami个人推文 whoami个人博客 itweet.cn ...">
+
+    
+    <link rel="alternative" href="/atom.xml" title="whoami" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/jacman.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/jacman.jpg">
+    
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      
+<div>
+		
+			<div id="imglogo">
+				<a href="/"><img src="/img/logo.png" alt="whoami" title="whoami"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="whoami">whoami</a></h1>
+				<h2 class="blog-motto">你已经赤身裸体了，你没有理由不跟随自己的心一起跳动...</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/">Home</a></li>
+					
+						<li><a href="/archives">Archives</a></li>
+					
+						<li><a href="/book">Book</a></li>
+					
+						<li><a href="/video">Video</a></li>
+					
+						<li><a href="/about">About</a></li>
+					
+					<li>
+ 					
+						<form class="search">
+							<label>Search</label>
+						<input type="text" id="ts-search-input" name="q" size="30" placeholder="搜索"><br>
+						</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+    </header>
+    <div id="container">
+      <div id="main">
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/03/20/Impala-Hive-performance-tuning/" title="Impala - Hive 性能测试和查询优化" itemprop="url">
+  
+    <h1 itemprop="name">Impala - Hive 性能测试和查询优化</h1>
+    
+     
+      <p itemprop="description" >Impala - Hive 性能测试和查询优化</p>
+      
+    
+    <time datetime="2016-03-19T16:00:00.000Z" itemprop="datePublished">2016-03-20</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/03/17/Hadoop-issue-collection/" title="Hadoop issue collections" itemprop="url">
+  
+    <h1 itemprop="name">Hadoop issue collections</h1>
+    
+     
+      <p itemprop="description" >整理在工作中遇到的Hadoop平台遇到的报错信息，以及解决思路。</p>
+      
+    
+    <time datetime="2016-03-16T16:00:00.000Z" itemprop="datePublished">2016-03-17</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/03/15/columnar-storage-parquet-and-orc/" title="Hadoop列式存储引擎Parquet/ORC和snappy压缩" itemprop="url">
+  
+    <h1 itemprop="name">Hadoop列式存储引擎Parquet/ORC和snappy压缩</h1>
+    
+     
+           <p itemprop="description" >相对于传统的行式存储格式，列式存储引擎具有更高的压缩比，更少的IO操作而备受青睐。列式存储缺点：在column数很多，每次操作大部分列的时候，cpu压力突增，而且增加处理时长。优点：在cloumn数很多，每次操作若干列的场景，列式存储的性价比，性能更高。
+  在很多大数据的应用场</p>
+        
+    
+    <time datetime="2016-03-14T16:00:00.000Z" itemprop="datePublished">2016-03-15</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/03/10/sqoop-auto/" title="sqoop 自动化脚本" itemprop="url">
+  
+    <h1 itemprop="name">sqoop 自动化脚本</h1>
+    
+     
+           <p itemprop="description" >Sqoop是一款开源的工具，主要用于在HADOOP(Hive)与传统的数据库(mysql、postgresql…)间进行数据的传递，可以将一个关系型数据库（例如 ： MySQL ,Oracle ,Postgres等）中的数据导进到Hadoop的HDFS,NOSQL中，也可以将HD</p>
+        
+    
+    <time datetime="2016-03-09T16:00:00.000Z" itemprop="datePublished">2016-03-10</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/03/03/coding/" title="Coding" itemprop="url">
+  
+    <h1 itemprop="name">Coding</h1>
+    
+     
+      <p itemprop="description" >对于coding,不是喜欢而是爱！</p>
+      
+    
+    <time datetime="2016-03-02T16:00:00.000Z" itemprop="datePublished">2016-03-03</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/01/29/SQL-on-Hadoop-tpc-testing/" title="SQL on Hadoop TPCDS性能测试" itemprop="url">
+  
+    <h1 itemprop="name">SQL on Hadoop TPCDS性能测试</h1>
+    
+     
+      <p itemprop="description" >SQL on Hadoop tpc性能测试报告,涉及主流SQL on Hadoop组件测试！</p>
+      
+    
+    <time datetime="2016-01-28T16:00:00.000Z" itemprop="datePublished">2016-01-29</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/01/26/Hadoop-Hardware-Planning/" title="Hadoop平台架构--硬件篇" itemprop="url">
+  
+    <h1 itemprop="name">Hadoop平台架构--硬件篇</h1>
+    
+     
+      <p itemprop="description" >Hadoop平台硬件资源选型,Hadoop版本选择,Hadoop平台角色如何分配,什么硬件适配什么计算引擎,完美的存储格式...</p>
+      
+    
+    <time datetime="2016-01-25T16:00:00.000Z" itemprop="datePublished">2016-01-26</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/01/25/Hadoop-Disk-Planning/" title="Hadoop平台架构--存储篇" itemprop="url">
+  
+    <h1 itemprop="name">Hadoop平台架构--存储篇</h1>
+    
+     
+      <p itemprop="description" >HDFS存储规范,主要介绍存储规划和HDFS目录规划...</p>
+      
+    
+    <time datetime="2016-01-24T16:00:00.000Z" itemprop="datePublished">2016-01-25</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/01/09/Hbase-server-optimization/" title="Hbase-Region-split-policy" itemprop="url">
+  
+    <h1 itemprop="name">Hbase-Region-split-policy</h1>
+    
+     
+      <p itemprop="description" >Hbase-Region-split-policy</p>
+      
+    
+    <time datetime="2016-01-08T16:00:00.000Z" itemprop="datePublished">2016-01-09</time>
+  </a>
+</section>
+
+
+
+
+
+
+  
+<section class="post" itemscope itemprop="blogitem">
+  
+    <a href="/2016/01/02/zabbix-use/" title="Zabbix Use" itemprop="url">
+  
+    <h1 itemprop="name">Zabbix Use</h1>
+    
+     
+      <p itemprop="description" >Zabbix是一个企业级的开源分布式监控解决方案，由一个国外的团队持续维护更新，软件可以自由下载使用，运作团队靠提供收费的技术支持赢利。通过IPMI,SNMP,AGENT,JAVA GATEWAY等收集数据.</p>
+      
+    
+    <time datetime="2016-01-01T16:00:00.000Z" itemprop="datePublished">2016-01-02</time>
+  </a>
+</section>
+
+
+
+
+
+
+
+  <nav id="page-nav" class="clearfix unexpand">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><a class="extend next" rel="next" href="/page/2/">Next<span></span></a>
+  </nav>
+
+</div>
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+		  
+			<li><a href="/categories/Enterprise-Hadoop-Solutions/" title="Enterprise_Hadoop_Solutions">Enterprise_Hadoop_Solutions<sup>2</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/MachineLearning/" title="MachineLearning">MachineLearning<sup>2</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/NOSQL/" title="NOSQL">NOSQL<sup>6</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/SQL-on-Hadoop/" title="SQL on Hadoop">SQL on Hadoop<sup>10</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/coding/" title="coding">coding<sup>1</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/default/" title="default">default<sup>4</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/hadoop/" title="hadoop">hadoop<sup>19</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/kafka/" title="kafka">kafka<sup>2</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/linux/" title="linux">linux<sup>8</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/python/" title="python">python<sup>1</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/spark/" title="spark">spark<sup>2</sup></a></li>
+		  
+		
+		  
+			<li><a href="/categories/streaming/" title="streaming">streaming<sup>1</sup></a></li>
+		  
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			
+				<li><a href="/tags/sqoop/" title="sqoop">sqoop<sup>3</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/snmp/" title="snmp">snmp<sup>3</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/install/" title="install">install<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/ganglia/" title="ganglia">ganglia<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/杂谈/" title="杂谈">杂谈<sup>2</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/federation/" title="federation">federation<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/storm/" title="storm">storm<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/theme/" title="theme">theme<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/spark/" title="spark">spark<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/zookeeper-cluster/" title="zookeeper cluster">zookeeper cluster<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/hive/" title="hive">hive<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/spark资源/" title="spark资源">spark资源<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/presto/" title="presto">presto<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/memcached-doc/" title="memcached_doc">memcached_doc<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/mahout/" title="mahout">mahout<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/redis/" title="redis">redis<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/linux-monitor-python/" title="linux-monitor python">linux-monitor python<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/日志收集/" title="日志收集">日志收集<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/impala/" title="impala">impala<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/hive-optimize/" title="hive optimize">hive optimize<sup>1</sup></a></li>
+			
+		
+		</ul>
+</div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+        
+          <li>
+            
+            	<a href="https://github.com" target="_blank" title="一个面向程序员交流分享的开源社区">码农圈</a>
+            
+          </li>
+        
+          <li>
+            
+            	<a href="http://www.itweet.cn" target="_blank" title="Itweet&#39;s Blog">Itweet&#39;s Blog</a>
+            
+          </li>
+        
+    </ul>
+</div>
+
+  <div class="weiboshow">
+  <p class="asidetitle">新浪微博</p>
+    <iframe width="100%" height="119" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=119&fansRow=2&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=0&isFans=0&uid=2170714230&verifier=1f582291&dpc=1"></iframe>
+</div>
+
+
+  <div class="rsspart">
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hello ,I&#39;m whoami in itweet. <br/>
+			This is my blog,believe it or not.</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/sparkjvm" target="_blank" class="icon-weibo" title="微博"></a>
+		
+		
+		<a href="https://github.com/itweet" target="_blank" class="icon-github" title="github"></a>
+		
+		
+		
+		
+		
+		
+		<a href="https://www.douban.com/people/sparkjvm" target="_blank" class="icon-douban" title="豆瓣"></a>
+		
+		
+		
+		
+		<a href="mailto:itweet@gmail.com" target="_blank" class="icon-email" title="Email Me"></a>
+		
+	</div>
+			
+		
+				<div class="cc-license">
+          <a href="http://creativecommons.org/licenses/by-nc-sa/4.0" class="cc-opacity" target="_blank">
+            <img src="/img/cc-by-nc-sa.svg" alt="Creative Commons" />
+          </a>
+        </div>
+    
+
+		<p class="copyright">
+		Powered by <a href="http://hexo.io" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/itweet/jacman" target="_blank" title="Jacman">Jacman</a> © 2016
+		
+		<a href="/about" target="_blank" title="whoami">whoami</a>
+		
+		
+		</p>
+</div>
+</footer>
+    <script src="/js/jquery-2.0.3.min.js"></script>
+<script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+<script src="/js/jquery.qrcode-0.12.0.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+  
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else{
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+        
+    }
+  });
+});
+</script>
+
+
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"itweet"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+
+<!-- Analytics Begin -->
+
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9f87ba0a79ac9ebd14bee7c28593411a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255736348'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s23.cnzz.com/z_stat.php%3Fid%3D1255736348' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<!-- Analytics End -->
+
+<!-- Totop Begin -->
+
+	<div id="totop">
+	<a title="返回顶部"><img src="/img/scrollup.png"/></a>
+	</div>
+	<script src="/js/totop.js"></script>
+
+<!-- Totop End -->
+
+<!-- MathJax Begin -->
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<!-- MathJax End -->
+
+<!-- Tiny_search Begin -->
+
+<script>
+var option = {
+  engineKey: '206df24fffa91d6433f3'
+};
+(function(w,d,t,u,n,s,e){
+  s = d.createElement(t);
+  s.src = u;
+  s.async = 1;
+  w[n] = function(r){
+    w[n].opts = r;
+  };
+  e = d.getElementsByTagName(t)[0];
+  e.parentNode.insertBefore(s, e);
+})(window,document,'script','//tinysou-cdn.b0.upaiyun.com/ts.js','_ts');
+_ts(option);
+</script>
+
+<!-- Tiny_search End -->
+
+  </body>
+ </html>

@@ -1,0 +1,911 @@
+
+<!DOCTYPE html>   
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html dir="ltr" lang="zh-CN" xmlns:wb="http://open.weibo.com/wb" class="no-js"> <!--<![endif]-->
+
+
+<!-- BEGIN head -->
+<head>
+
+	<!-- Title -->
+	<title>Nothing found for  Wp-content Plugins Lightbox-plus Css Shadowed &quot;%20+%20this Src%20+%20&quot;,%20sizingMethod='scale'</title>
+	
+	<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<!-- Favicon & Mobileicon -->
+	<link rel="shortcut icon" href="http://www.importnew.com/wp-content/uploads/2014/12/d02a42d9cb3dec9320e5f550278911c7.ico" />
+	<link rel="apple-touch-icon" href="http://www.importnew.com/wp-content/themes/jobbolev4blog/mobileicon.png" />
+	
+	<!-- RSS, Atom & Pingbacks -->
+		<link rel="alternate" title="ImportNew RSS Feed" href="http://www.importnew.com/feed" />
+		<link rel="alternate" title="RSS .92" href="http://www.importnew.com/feed/rss" />
+	<link rel="alternate" title="Atom 0.3" href="http://www.importnew.com/feed/atom" />
+	<link rel="pingback" href="http://www.importnew.com/xmlrpc.php" />
+	
+	<!-- Theme Hook -->
+	<link rel='stylesheet' id='lightboxStyle-css'  href='http://www.importnew.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.0.2' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.importnew.com/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/modernizr.js?ver=2.5.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.importnew.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.importnew.com/wp-includes/wlwmanifest.xml" /> 
+
+<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[465,489] -->
+<!-- /all in one seo pack -->
+
+<!-- Comment Rating plugin Version: 2.9.32 by Bob King, http://wealthynetizen.com/, dynamic comment voting & styling. --> 
+<style type="text/css" media="screen">
+   .ckrating_highly_rated {background-color:#FFFFCC !important;}
+   .ckrating_poorly_rated {opacity:0.6;filter:alpha(opacity=60) !important;}
+   .ckrating_hotly_debated {background-color:#FFF0F5 !important;}
+</style>
+
+	
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://www.importnew.com/wp-content/themes/jobbolev4blog/style.css" media="screen" />
+	<!-- link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noticia+Text:400,700italic,700,400italic" media="screen" / -->
+	<style>
+				*::selection { background: #0099cc; }
+		*::-moz-selection { background: #0099cc; }
+		body { background: #ffffff  }
+		a, .tabs ul.nav li a:hover, .tabs ul.nav li.active a, .dropcap, .toggle.hover .toggle-title, li.comment cite a:hover, h3.widget-title, .post-meta .meta-title:hover, .the-latest a:hover h4, .aw_socialcounter_widget li a:hover, .aw_tabbed_widget #tab-latest-comments a:hover { color: #0099cc; }
+		a:hover { color: #b30000; }
+		input:focus, textarea:focus { border-color: #0099cc; }
+		#searchsubmit, .highlight, .aw_tabbed_widget .tabs ul.nav li.active a, footer .aw_tabbed_widget .tabs ul.nav li.active a, #top .aw_tabbed_widget .tabs ul.nav li.active a, .aw_tabbed_widget .tabs ul.nav li a:hover, footer .aw_tabbed_widget .tabs ul.nav li a:hover, #top .aw_tabbed_widget .tabs ul.nav li a:hover, .aw_twitter_widget .twitter-icon, .testimonial-icon, #top-closed:hover, .flex-control-nav a:hover, .flex-control-nav a.flex-active { background-color: #0099cc; }
+		.submit { background-color: #0099cc; border-color: #007399; }
+		.submit:hover { background-color: #b30000; border-color: #860000; }
+		#searchsubmit:hover { background-color: #b30000; }
+		.toggle.hover .toggle-icon { border-top-color: #0099cc; }
+		.toggle.hover.active .toggle-icon { border-bottom-color: #0099cc; }
+		.flex-direction-nav li .flex-prev:hover { border-right-color: #0099cc; }
+		.flex-direction-nav li .flex-next:hover { border-left-color: #0099cc; }
+		@media only screen and (min-width: 768px) and (max-width: 959px) {
+			.aw_tabbed_widget .tabs ul.nav li a:hover, .tabs ul.nav li.active a { color: #0099cc; }
+		}
+		@media screen and (max-width: 767px) {
+			.tabs ul.nav li a:hover, .tabs ul.nav li.active a { color: #0099cc; }
+		}
+	</style>
+		
+	<!--[if IE 8]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <![endif]-->
+
+	<!-- Links: RSS + Atom Syndication + Pingback etc. -->
+	<link rel="alternate" type="application/rss+xml" title="ImportNew RSS Feed" href="http://www.importnew.com/feed" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.importnew.com/feed/rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.importnew.com/feed/atom" />
+	<link rel="pingback" href="http://www.importnew.com/xmlrpc.php" />
+    <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=2606191112" type="text/javascript" charset="utf-8"></script>
+
+<!-- END head -->
+</head>
+
+<!-- BEGIN body -->
+<body class="error404 unknown">
+
+		
+	
+	<!-- BEGIN #top-nav -->
+	<nav id="top-nav" class="menu-nav">
+		
+		<!-- BEGIN .container -->
+		<div class="container">
+
+			            <div class="grid-12">
+            </div>
+			<div class="clear"></div>
+		
+		</div>
+		<!-- END .container -->
+    
+	</nav>
+	<!-- END #top-nav -->
+	
+	  	
+	<!-- BEGIN #wrapper -->
+	<div id="wrapper" class="container">
+
+		<!-- BEGIN header -->
+		<header>
+		
+						
+			<div class="header-wrapper">
+								
+				<!-- BEGIN #logo -->
+				<div id="logo" class="leaderboard-true">
+				
+										<a  href="http://www.importnew.com"><img src="http://www.importnew.com/wp-content/uploads/2014/12/6c537425c9ad078efe656a346e5facec.png" width="137" height="85" alt="ImportNew"/></a>
+									
+				</div>
+				<!-- END #logo -->
+				
+				<!-- BEGIN #leaderboard -->
+				<div id="leaderboard">
+				
+					<a  href="http://hao.jobbole.com/?catid=32&#038;utm_source=www.importnew.com&#038;utm_medium=topBanner&#038;utm_content=2015.9.16" target="_blank" class="external" rel="nofollow"><img width='728' height='90' src='http://ww2.sinaimg.cn/mw690/bfdcef89gw1eywwtktlfmj20k802i3yz.jpg' /></a>				
+				</div>
+				<!-- END #leaderboard -->
+				
+				<div class="clear"></div>
+			
+			</div>
+			
+						
+			<div class="clear"></div>
+			
+			<!-- BEGIN #main-nav -->
+			<nav id="main-nav" class="grid-12 menu-nav">
+
+				<div class="menu-main-container"><ul id="main-nav-menu" class="menu"><li id="menu-item-14265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14265"><a  href="http://www.importnew.com/">首页</a></li>
+<li id="menu-item-14278" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-14278"><a  href="http://www.importnew.com/all-posts">所有文章</a></li>
+<li id="menu-item-858" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-858"><a  href="http://www.importnew.com/cat/news">资讯</a></li>
+<li id="menu-item-1120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1120"><a  href="http://www.importnew.com/cat/web-development">Web</a></li>
+<li id="menu-item-1923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1923"><a  href="http://www.importnew.com/cat/architecture">架构</a></li>
+<li id="menu-item-832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-832"><a  href="http://www.importnew.com/cat/basic">基础技术</a></li>
+<li id="menu-item-836" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-836"><a  href="http://www.importnew.com/cat/books">书籍</a></li>
+<li id="menu-item-2183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2183"><a  href="http://www.importnew.com/cat/tutorial">教程</a></li>
+<li id="menu-item-14282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14282"><a  href="http://top.jobbole.com" class="external" rel="nofollow" target="_blank">我要投稿</a></li>
+<li id="menu-item-14283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14283"><a  href="#">更多频道 »</a>
+<ul class="sub-menu">
+	<li id="menu-item-14284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14284"><a  href="http://ios.jobbole.com" class="external" rel="nofollow" target="_blank">iOS</a></li>
+	<li id="menu-item-14286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14286"><a  href="http://python.jobbole.com" class="external" rel="nofollow" target="_blank">Python</a></li>
+	<li id="menu-item-14285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14285"><a  href="http://android.jobbole.com" class="external" rel="nofollow" target="_blank">Android</a></li>
+	<li id="menu-item-14287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14287"><a  href="http://web.jobbole.com" class="external" rel="nofollow" target="_blank">Web前端</a></li>
+</ul>
+</li>
+</ul></div>				
+				<div class="clear"></div>
+            
+			</nav>
+			<!-- END #main-nav -->
+			
+			<div class="clear"></div>
+		
+		</header>
+		<!-- END header -->
+		
+		
+
+<!-- BEGIN .grid-8 -->
+<div class="grid-8">
+	
+	<!-- BEGIN .post -->
+	<div class="post">
+			
+		<!-- BEGIN .entry-header -->
+		<div class="entry-header">
+			
+			<h1>Error 404 - Not Found</h1>
+				
+		</div>
+		<!-- BEGIN .entry-header -->
+		
+		<!-- BEGIN .entry -->
+		<div class="entry">
+		
+			<p>Sorry, but you are looking for something that isn't here.</p>
+					
+		</div>
+		<!-- END .entry -->
+
+	</div>
+	<!-- END .post -->
+	
+</div>
+<!-- END .grid-8 -->
+
+<!-- BEGIN #sidebar -->
+<div id="sidebar" class="grid-4">
+
+	<div id="search-3" class="widget widget_search"><!-- BEGIN #searchform -->
+<form method="get" id="searchform" action="http://www.importnew.com/">
+
+	<label class="none" for="s">Search for:</label>
+	<div class="input-wrapper"><input type="text" value="" name="s" id="s" placeholder="Search" /></div>
+	<input type="submit" id="searchsubmit" value="Search" />
+	
+</form>
+<!-- END #searchform --></div><div id="text-14" class="widget widget_text">			<div class="textwidget"><p><a  href="http://blog.jobbole.com/84342/?utm_source=www.importnew.com&#038;utm_medium=rightBanner-1&#038;utm_content=2015.9.16" target="_blank" class="external" rel="nofollow"><img src='http://ww2.sinaimg.cn/mw690/e5298966gw1evyjrd4iqcj208c03c0t0.jpg' /></a></p>
+</div>
+		</div><div id="aw_tabbed_widget-2" class="widget aw_tabbed_widget"><div class="tabs"><ul class="nav clearfix"><li><a  id="link-most-discussed" href="#tab-most-discussed" title="本月热门文章">本月热门文章</a></li><li><a  id="link-latest-comments" href="#tab-latest-comments" title="年度热门文章">年度热门文章</a></li><li><a  id="link-tags" href="#tab-tags" title="热门标签">热门标签</a></li></ul><div id="tab-most-discussed" class="tab"><div class="floated-thumb">							
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">0</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19301.html" title="JAVA回调机制(CallBack)详解">JAVA回调机制(CallBack)详解</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">1</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19196.html" title="HashMap多线程并发问题分析">HashMap多线程并发问题分析</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">2</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19264.html" title="JVM调优总结（5）：典型配置">JVM调优总结（5）：典型配置</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">3</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19315.html" title="Redis+Spring缓存实例（windows环境，附实例源码及详解）">Redis+Spring缓存实例（windows环境，附实例源码及详解）</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">4</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19418.html" title="搜索引擎solr和elasticsearch">搜索引擎solr和elasticsearch</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">5</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19434.html" title="关于Java变量的可见性问题">关于Java变量的可见性问题</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">6</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19489.html" title="Spring中@Transactional事务回滚（含实例详细讲解，附源码）">Spring中@Transactional事务回滚（含实例详细讲解，附源码）</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">7</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19185.html" title="Spring4新特性（6）：更好的Java泛型操作API">Spring4新特性（6）：更好的Java泛型操作API</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">8</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19202.html" title="Spring4新特性（7）：JSR310日期时间API的支持">Spring4新特性（7）：JSR310日期时间API的支持</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+							
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">9</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19102.html" title="Spring4新特性（2）：核心容器的其他改进">Spring4新特性（2）：核心容器的其他改进</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+						</div></div><div id="tab-latest-comments" class="tab"><div class="floated-thumb">							
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">0</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/16700.html" title="Java中的常量：如何避免反模式">Java中的常量：如何避免反模式</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">1</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/18548.html" title="Java虚拟机类加载机制">Java虚拟机类加载机制</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">2</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19301.html" title="JAVA回调机制(CallBack)详解">JAVA回调机制(CallBack)详解</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">3</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/15934.html" title="为什么JVM指定-Xmx参数后占用内存会变少？">为什么JVM指定-Xmx参数后占用内存会变少？</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta  no-thumb">
+							
+								<p>
+								    <span class="numb">4</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/17006.html" title="泛型中? super T和? extends T的区别">泛型中? super T和? extends T的区别</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">5</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/18528.html" title="Java经典设计模式（3）：十一种行为型模式（附实例和详解）">Java经典设计模式（3）：十一种行为型模式（附实例和详解）</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">6</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/19011.html" title="深入理解Java之线程池">深入理解Java之线程池</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">7</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/16056.html" title="在什么情况下Java比C++快？">在什么情况下Java比C++快？</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">8</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/16509.html" title="Java 程序优化：字符串操作、基本运算方法等优化策略">Java 程序优化：字符串操作、基本运算方法等优化策略</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+													
+											
+							<!-- BEGIN .post-meta -->
+							<div class="post-meta ">
+							
+								<p>
+								    <span class="numb">9</span>
+								    <a  class="meta-title" target="_blank" href="http://www.importnew.com/16995.html" title="Java实现单例的难点">Java实现单例的难点</a><br />
+								</p>
+									
+							</div>
+							<!-- END .post-meta -->
+							
+							<div class="clear"></div>
+							
+						</div></div><div id="tab-tags" class="tab"><p><a  href="http://www.importnew.com/tag/android23days" class="tag-link-240" title="8 个话题" style="font-size: 10.573529411765px;">android23days</a>
+<a  href="http://www.importnew.com/tag/android" class="tag-link-36" title="64 个话题" style="font-size: 19.426470588235px;">Android开发</a>
+<a  href="http://www.importnew.com/tag/aop" class="tag-link-204" title="12 个话题" style="font-size: 12.220588235294px;">AOP</a>
+<a  href="http://www.importnew.com/tag/api" class="tag-link-308" title="6 个话题" style="font-size: 9.5441176470588px;">API</a>
+<a  href="http://www.importnew.com/tag/arraylist" class="tag-link-314" title="6 个话题" style="font-size: 9.5441176470588px;">ArrayList</a>
+<a  href="http://www.importnew.com/tag/collection" class="tag-link-52" title="4 个话题" style="font-size: 8px;">Collection</a>
+<a  href="http://www.importnew.com/tag/controller" class="tag-link-797" title="7 个话题" style="font-size: 10.058823529412px;">Controller</a>
+<a  href="http://www.importnew.com/tag/eclipse" class="tag-link-81" title="25 个话题" style="font-size: 15.308823529412px;">Eclipse</a>
+<a  href="http://www.importnew.com/tag/featuredpost" class="tag-link-503" title="5 个话题" style="font-size: 8.8235294117647px;">featuredpost</a>
+<a  href="http://www.importnew.com/tag/gc" class="tag-link-87" title="28 个话题" style="font-size: 15.823529411765px;">GC</a>
+<a  href="http://www.importnew.com/tag/google" class="tag-link-183" title="5 个话题" style="font-size: 8.8235294117647px;">Google</a>
+<a  href="http://www.importnew.com/tag/gradle" class="tag-link-201" title="5 个话题" style="font-size: 8.8235294117647px;">Gradle</a>
+<a  href="http://www.importnew.com/tag/guava" class="tag-link-554" title="8 个话题" style="font-size: 10.573529411765px;">Guava</a>
+<a  href="http://www.importnew.com/tag/hadoop" class="tag-link-140" title="12 个话题" style="font-size: 12.220588235294px;">Hadoop</a>
+<a  href="http://www.importnew.com/tag/hashmap" class="tag-link-284" title="18 个话题" style="font-size: 13.970588235294px;">HashMap</a>
+<a  href="http://www.importnew.com/tag/hashset" class="tag-link-60" title="7 个话题" style="font-size: 10.058823529412px;">HashSet</a>
+<a  href="http://www.importnew.com/tag/hbase" class="tag-link-128" title="13 个话题" style="font-size: 12.632352941176px;">HBase</a>
+<a  href="http://www.importnew.com/tag/hibernate" class="tag-link-109" title="10 个话题" style="font-size: 11.5px;">Hibernate</a>
+<a  href="http://www.importnew.com/tag/intellij" class="tag-link-213" title="6 个话题" style="font-size: 9.5441176470588px;">IntelliJ</a>
+<a  href="http://www.importnew.com/tag/io" class="tag-link-70" title="6 个话题" style="font-size: 9.5441176470588px;">io</a>
+<a  href="http://www.importnew.com/tag/ioc" class="tag-link-475" title="5 个话题" style="font-size: 8.8235294117647px;">IoC</a>
+<a  href="http://www.importnew.com/tag/java" class="tag-link-35" title="114 个话题" style="font-size: 22px;">Java</a>
+<a  href="http://www.importnew.com/tag/java8" class="tag-link-354" title="20 个话题" style="font-size: 14.382352941176px;">java8</a>
+<a  href="http://www.importnew.com/tag/java-8" class="tag-link-50" title="31 个话题" style="font-size: 16.338235294118px;">java 8</a>
+<a  href="http://www.importnew.com/tag/java9" class="tag-link-436" title="6 个话题" style="font-size: 9.5441176470588px;">Java9</a>
+<a  href="http://www.importnew.com/tag/java10%e5%a4%a7%e4%bc%98%e7%82%b9" class="tag-link-263" title="5 个话题" style="font-size: 8.8235294117647px;">Java10大优点</a>
+<a  href="http://www.importnew.com/tag/javaee" class="tag-link-379" title="6 个话题" style="font-size: 9.5441176470588px;">javaee</a>
+<a  href="http://www.importnew.com/tag/javaee7" class="tag-link-456" title="5 个话题" style="font-size: 8.8235294117647px;">Javaee7</a>
+<a  href="http://www.importnew.com/tag/javaee%e4%b8%8emaven%e6%95%99%e7%a8%8b" class="tag-link-462" title="7 个话题" style="font-size: 10.058823529412px;">JavaEE与Maven教程</a>
+<a  href="http://www.importnew.com/tag/java-gc" class="tag-link-115" title="6 个话题" style="font-size: 9.5441176470588px;">Java GC</a>
+<a  href="http://www.importnew.com/tag/javagc%e4%b8%93%e5%ae%b6" class="tag-link-491" title="5 个话题" style="font-size: 8.8235294117647px;">JavaGC专家</a>
+<a  href="http://www.importnew.com/tag/java-nio" class="tag-link-750" title="12 个话题" style="font-size: 12.220588235294px;">Java NIO</a>
+<a  href="http://www.importnew.com/tag/java%e7%bc%96%e7%a8%8b%e5%85%a5%e9%97%a8" class="tag-link-639" title="23 个话题" style="font-size: 15px;">Java编程入门</a>
+<a  href="http://www.importnew.com/tag/jdbc" class="tag-link-122" title="15 个话题" style="font-size: 13.147058823529px;">JDBC</a>
+<a  href="http://www.importnew.com/tag/jdk" class="tag-link-44" title="6 个话题" style="font-size: 9.5441176470588px;">JDK</a>
+<a  href="http://www.importnew.com/tag/jmeter" class="tag-link-487" title="5 个话题" style="font-size: 8.8235294117647px;">JMeter</a>
+<a  href="http://www.importnew.com/tag/jsoup" class="tag-link-703" title="7 个话题" style="font-size: 10.058823529412px;">Jsoup</a>
+<a  href="http://www.importnew.com/tag/junit" class="tag-link-337" title="6 个话题" style="font-size: 9.5441176470588px;">JUnit</a>
+<a  href="http://www.importnew.com/tag/jvm" class="tag-link-80" title="65 个话题" style="font-size: 19.529411764706px;">JVM</a>
+<a  href="http://www.importnew.com/tag/lambda" class="tag-link-92" title="7 个话题" style="font-size: 10.058823529412px;">Lambda</a>
+<a  href="http://www.importnew.com/tag/lambda%e8%a1%a8%e8%be%be%e5%bc%8f" class="tag-link-356" title="5 个话题" style="font-size: 8.8235294117647px;">lambda表达式</a>
+<a  href="http://www.importnew.com/tag/linkedhashmap" class="tag-link-306" title="5 个话题" style="font-size: 8.8235294117647px;">LinkedHashMap</a>
+<a  href="http://www.importnew.com/tag/mapreduce" class="tag-link-106" title="7 个话题" style="font-size: 10.058823529412px;">MapReduce</a>
+<a  href="http://www.importnew.com/tag/maven" class="tag-link-385" title="11 个话题" style="font-size: 11.911764705882px;">maven</a>
+<a  href="http://www.importnew.com/tag/netty" class="tag-link-130" title="14 个话题" style="font-size: 12.941176470588px;">Netty</a>
+<a  href="http://www.importnew.com/tag/nio" class="tag-link-69" title="10 个话题" style="font-size: 11.5px;">nio</a>
+<a  href="http://www.importnew.com/tag/nio2-0" class="tag-link-116" title="6 个话题" style="font-size: 9.5441176470588px;">NIO2.0</a>
+<a  href="http://www.importnew.com/tag/oauth-2-0" class="tag-link-49" title="4 个话题" style="font-size: 8px;">OAuth 2.0</a>
+<a  href="http://www.importnew.com/tag/oracle" class="tag-link-153" title="9 个话题" style="font-size: 11.088235294118px;">oracle</a>
+<a  href="http://www.importnew.com/tag/restful" class="tag-link-196" title="7 个话题" style="font-size: 10.058823529412px;">RESTful</a>
+<a  href="http://www.importnew.com/tag/scala" class="tag-link-89" title="17 个话题" style="font-size: 13.764705882353px;">Scala</a>
+<a  href="http://www.importnew.com/tag/scala-tutorial" class="tag-link-155" title="6 个话题" style="font-size: 9.5441176470588px;">Scala tutorial</a>
+<a  href="http://www.importnew.com/tag/solr" class="tag-link-429" title="8 个话题" style="font-size: 10.573529411765px;">solr</a>
+<a  href="http://www.importnew.com/tag/spring" class="tag-link-53" title="99 个话题" style="font-size: 21.382352941176px;">Spring</a>
+<a  href="http://www.importnew.com/tag/spring4" class="tag-link-771" title="8 个话题" style="font-size: 10.573529411765px;">Spring4</a>
+<a  href="http://www.importnew.com/tag/springmvc" class="tag-link-614" title="17 个话题" style="font-size: 13.764705882353px;">SpringMVC</a>
+<a  href="http://www.importnew.com/tag/spring-security" class="tag-link-216" title="5 个话题" style="font-size: 8.8235294117647px;">Spring Security</a>
+<a  href="http://www.importnew.com/tag/string" class="tag-link-252" title="21 个话题" style="font-size: 14.588235294118px;">String</a>
+<a  href="http://www.importnew.com/tag/threadlocal" class="tag-link-376" title="6 个话题" style="font-size: 9.5441176470588px;">ThreadLocal</a>
+<a  href="http://www.importnew.com/tag/tomcat" class="tag-link-225" title="9 个话题" style="font-size: 11.088235294118px;">Tomcat</a>
+<a  href="http://www.importnew.com/tag/unsafe" class="tag-link-302" title="5 个话题" style="font-size: 8.8235294117647px;">Unsafe</a>
+<a  href="http://www.importnew.com/tag/volatile" class="tag-link-433" title="6 个话题" style="font-size: 9.5441176470588px;">volatile</a>
+<a  href="http://www.importnew.com/tag/%e4%b9%a6%e7%b1%8d" class="tag-link-40" title="4 个话题" style="font-size: 8px;">书籍</a>
+<a  href="http://www.importnew.com/tag/%e4%ba%8b%e5%8a%a1" class="tag-link-339" title="8 个话题" style="font-size: 10.573529411765px;">事务</a>
+<a  href="http://www.importnew.com/tag/%e4%be%9d%e8%b5%96%e6%b3%a8%e5%85%a5" class="tag-link-293" title="5 个话题" style="font-size: 8.8235294117647px;">依赖注入</a>
+<a  href="http://www.importnew.com/tag/%e5%86%85%e5%ad%98%e6%b3%84%e9%9c%b2" class="tag-link-124" title="6 个话题" style="font-size: 9.5441176470588px;">内存泄露</a>
+<a  href="http://www.importnew.com/tag/%e5%86%85%e5%ad%98%e7%ae%a1%e7%90%86" class="tag-link-273" title="13 个话题" style="font-size: 12.632352941176px;">内存管理</a>
+<a  href="http://www.importnew.com/tag/%e5%8f%82%e6%95%b0%e5%a4%aa%e5%a4%9a%e6%80%8e%e4%b9%88%e5%8a%9e" class="tag-link-470" title="8 个话题" style="font-size: 10.573529411765px;">参数太多怎么办</a>
+<a  href="http://www.importnew.com/tag/%e5%91%a8%e5%88%8a" class="tag-link-259" title="5 个话题" style="font-size: 8.8235294117647px;">周刊</a>
+<a  href="http://www.importnew.com/tag/%e5%9e%83%e5%9c%be%e5%9b%9e%e6%94%b6" class="tag-link-575" title="7 个话题" style="font-size: 10.058823529412px;">垃圾回收</a>
+<a  href="http://www.importnew.com/tag/%e5%9f%ba%e7%a1%80%e6%8a%80%e6%9c%af" class="tag-link-58" title="54 个话题" style="font-size: 18.705882352941px;">基础技术</a>
+<a  href="http://www.importnew.com/tag/%e5%a4%9a%e7%ba%bf%e7%a8%8b" class="tag-link-46" title="16 个话题" style="font-size: 13.455882352941px;">多线程</a>
+<a  href="http://www.importnew.com/tag/%e5%ad%97%e7%ac%a6%e4%b8%b2" class="tag-link-636" title="6 个话题" style="font-size: 9.5441176470588px;">字符串</a>
+<a  href="http://www.importnew.com/tag/%e5%ad%97%e8%8a%82%e7%a0%81" class="tag-link-38" title="4 个话题" style="font-size: 8px;">字节码</a>
+<a  href="http://www.importnew.com/tag/%e5%ae%89%e5%8d%93%e7%83%ad%e7%82%b9" class="tag-link-286" title="5 个话题" style="font-size: 8.8235294117647px;">安卓热点</a>
+<a  href="http://www.importnew.com/tag/%e5%b7%a5%e5%85%b7" class="tag-link-126" title="5 个话题" style="font-size: 8.8235294117647px;">工具</a>
+<a  href="http://www.importnew.com/tag/%e5%b9%b6%e5%8f%91" class="tag-link-401" title="8 个话题" style="font-size: 10.573529411765px;">并发</a>
+<a  href="http://www.importnew.com/tag/%e5%b9%b6%e5%8f%91%e7%bc%96%e7%a8%8b" class="tag-link-64" title="21 个话题" style="font-size: 14.588235294118px;">并发编程</a>
+<a  href="http://www.importnew.com/tag/%e5%ba%8f%e5%88%97%e5%8c%96" class="tag-link-298" title="9 个话题" style="font-size: 11.088235294118px;">序列化</a>
+<a  href="http://www.importnew.com/tag/%e5%bc%82%e5%b8%b8%e5%a4%84%e7%90%86" class="tag-link-214" title="14 个话题" style="font-size: 12.941176470588px;">异常处理</a>
+<a  href="http://www.importnew.com/tag/%e5%be%ae%e4%bf%a1%e5%bc%80%e5%8f%91" class="tag-link-751" title="5 个话题" style="font-size: 8.8235294117647px;">微信开发</a>
+<a  href="http://www.importnew.com/tag/%e6%80%a7%e8%83%bd" class="tag-link-47" title="15 个话题" style="font-size: 13.147058823529px;">性能</a>
+<a  href="http://www.importnew.com/tag/%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96" class="tag-link-88" title="9 个话题" style="font-size: 11.088235294118px;">性能优化</a>
+<a  href="http://www.importnew.com/tag/%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98" class="tag-link-282" title="9 个话题" style="font-size: 11.088235294118px;">性能调优</a>
+<a  href="http://www.importnew.com/tag/%e6%8e%92%e5%ba%8f" class="tag-link-368" title="6 个话题" style="font-size: 9.5441176470588px;">排序</a>
+<a  href="http://www.importnew.com/tag/%e6%95%99%e7%a8%8b" class="tag-link-156" title="16 个话题" style="font-size: 13.455882352941px;">教程</a>
+<a  href="http://www.importnew.com/tag/%e6%97%a5%e5%bf%97" class="tag-link-29" title="6 个话题" style="font-size: 9.5441176470588px;">日志</a>
+<a  href="http://www.importnew.com/tag/%e6%ad%bb%e9%94%81" class="tag-link-343" title="5 个话题" style="font-size: 8.8235294117647px;">死锁</a>
+<a  href="http://www.importnew.com/tag/%e6%b3%9b%e5%9e%8b" class="tag-link-246" title="12 个话题" style="font-size: 12.220588235294px;">泛型</a>
+<a  href="http://www.importnew.com/tag/%e6%b3%a8%e8%a7%a3" class="tag-link-360" title="6 个话题" style="font-size: 9.5441176470588px;">注解</a>
+<a  href="http://www.importnew.com/tag/%e6%b5%8b%e8%af%95" class="tag-link-237" title="8 个话题" style="font-size: 10.573529411765px;">测试</a>
+<a  href="http://www.importnew.com/tag/%e6%b8%b8%e6%88%8f" class="tag-link-184" title="9 个话题" style="font-size: 11.088235294118px;">游戏</a>
+<a  href="http://www.importnew.com/tag/%e7%ae%97%e6%b3%95" class="tag-link-270" title="5 个话题" style="font-size: 8.8235294117647px;">算法</a>
+<a  href="http://www.importnew.com/tag/%e7%ba%bf%e7%a8%8b%e6%b1%a0" class="tag-link-297" title="7 个话题" style="font-size: 10.058823529412px;">线程池</a>
+<a  href="http://www.importnew.com/tag/%e7%bb%88%e6%9e%81%e7%88%b6%e7%b1%bb%e9%97%ae%e7%ad%94" class="tag-link-461" title="5 个话题" style="font-size: 8.8235294117647px;">终极父类问答</a>
+<a  href="http://www.importnew.com/tag/%e7%bc%93%e5%ad%98" class="tag-link-353" title="5 个话题" style="font-size: 8.8235294117647px;">缓存</a>
+<a  href="http://www.importnew.com/tag/%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f" class="tag-link-30" title="39 个话题" style="font-size: 17.264705882353px;">设计模式</a>
+<a  href="http://www.importnew.com/tag/%e9%9b%b6%e9%85%8d%e7%bd%ae" class="tag-link-741" title="5 个话题" style="font-size: 8.8235294117647px;">零配置</a>
+<a  href="http://www.importnew.com/tag/%e9%9d%a2%e8%af%95" class="tag-link-31" title="16 个话题" style="font-size: 13.455882352941px;">面试</a>
+<a  href="http://www.importnew.com/tag/%e9%9d%a2%e8%af%95%e9%a2%98" class="tag-link-27" title="9 个话题" style="font-size: 11.088235294118px;">面试题</a></p></div></div></div><div id="text-18" class="widget widget_text">			<div class="textwidget"><p><a  href="http://date.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=rightBanner-2&#038;utm_content=2015.9.16" target="_blank" class="external" rel="nofollow"><img src='http://ww2.sinaimg.cn/mw690/bfdcef89gw1esk2g5dvq1j208c03cglu.jpg' /></a></p>
+</div>
+		</div><div id="recent_comments_widget-2" class="widget recent_comments_widget">		<h3 class='widget-title'>最新评论</h3>
+		<ul>
+		
+					
+			<li id="rc-comment-495172" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19301.html#comment-495172" rel="nofollow">JAVA回调机制(CallBack)详解</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				java的回调是接口回调，Futures 回调									<a  class="rc-reviewer external" target="_blank" href="http://zb.sunqb.com" rel="nofollow external"> sunqb</a>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-495073" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19489.html#comment-495073" rel="nofollow">Spring中@Transactional事务回滚（含实例详细讲解，附源码）</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				@Transactional 的事务开启 ，或者是基于接口的 或者是基于类的代理被创建。所以在同一个...								<span class="rc-reviewer"> jackial</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-495050" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19301.html#comment-495050" rel="nofollow">JAVA回调机制(CallBack)详解</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				小红和小明最后在一起了吗？								<span class="rc-reviewer"> zhanyd</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-495048" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19301.html#comment-495048" rel="nofollow">JAVA回调机制(CallBack)详解</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				屌爆了								<span class="rc-reviewer"> zhanyd</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-495047" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19301.html#comment-495047" rel="nofollow">JAVA回调机制(CallBack)详解</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				为什么老婆婆能赚那么多钱。。。。    幽默  哈哈。								<span class="rc-reviewer"> zm</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-494965" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19418.html#comment-494965" rel="nofollow">搜索引擎solr和elasticsearch</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				solr的相关东西看http://cwiki.apache.org/solr很容易入门，现在网上一堆...								<span class="rc-reviewer"> terry</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-494533" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/18872.html#comment-494533" rel="nofollow">你真的会写单例模式吗——Java实现</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				为啥用懒汉模式 我们一般实例化一个单例时有一系列的操作 如果使用这个枚举 我该怎么写实例化时的方法								<span class="rc-reviewer"> 外行人</span>
+								</div>
+			</li>
+			
+						
+			<li id="rc-comment-494464" class="rc-item rc-comment rc-clearfix">
+				<img class="rc-avatar rc-left" width="32" height="32" alt="" src="http://jbcdn2.b0.upaiyun.com/2014/11/cb962c0fddc4ba5282bbf2996f3ee0d2.png">
+				<div class="rc-info">
+				Re:
+				<a  class="rc-post" target="_blank" href="http://www.importnew.com/19434.html#comment-494464" rel="nofollow">关于Java变量的可见性问题</a>
+				</div>
+				<div class="rc-timestamp"></div>
+				<div class="rc-excerpt">
+				试了一下new object的代码，发现程序还是没有停下来..（ ps：jdk1.8）								<span class="rc-reviewer"> migao</span>
+								</div>
+			</li>
+			
+					
+		</ul>
+        </div><div id="text-19" class="widget widget_text">			<div class="textwidget"><p><a  href="http://fanyi.jobbole.com/" target="_blank" class="external" rel="nofollow"><img src='http://ww1.sinaimg.cn/mw690/bfdcef89gw1esnyzyrczej208c03cgm3.jpg' /></a></p>
+</div>
+		</div>	
+	<!-- BEGIN .container -->
+	<div class="container">
+	
+		<!-- BEGIN .grid-2 -->
+		<div class="grid-2">
+			
+						
+		</div>
+		<!-- END .grid-2 -->
+		
+		<!-- BEGIN .grid-2 -->
+		<div class="grid-2">
+			
+						
+		</div>
+		<!-- END .grid-2 -->
+		
+		<div class="clear"></div>
+			
+	</div>
+	<!-- END .container -->
+
+</div>
+<!-- END #sidebar -->
+<div class="clear"></div>	
+
+
+</div>
+<!-- END #wrapper -->
+
+<!-- BEGIN footer -->
+<footer>
+
+	<!-- BEGIN .container -->
+	<div class="container">
+		
+		<!-- BEGIN .grid-4 -->
+		<div class="grid-4">
+			
+			<div id="text-15" class="widget widget_text"><h3 class="widget-title">关于ImportNew</h3>			<div class="textwidget"><p>ImportNew 专注于 Java 技术分享。于2012年11月11日 11:11正式上线。是的，这是一个很特别的时刻 :) </p>
+<p>ImportNew 由两个 Java 关键字 import 和 new 组成，意指：Java 开发者学习新知识的网站。 import 可认为是学习和吸收， new 则可认为是新知识、新技术圈子和新朋友……</p>
+<div id="aw_socialcounter_widget-2" class="widget aw_socialcounter_widget">
+<ul>
+<li>
+<a  target="_blank" href="http://weibo.com/importnew" class="external" rel="nofollow"><img class="alignleft" src="http://blog.jobbole.com/common_images/sina_32.png"  alt="关注我们的新浪微博" title="关注我们的新浪微博" /></a></p>
+<div class="view-rss"><a  target="_blank" href="http://www.importnew.com/feed/" class="rss-link"><img class="alignleft" src="http://blog.jobbole.com/common_images/rss_32.png"  alt="RSS订阅" title="RSS订阅" /></a></div>
+</li>
+</ul>
+</div>
+</div>
+		</div>			
+		</div>
+		<!-- END .grid-4 -->
+		
+		<!-- BEGIN .grid-4 -->
+		<div class="grid-4">
+			
+			<div id="text-17" class="widget widget_text"><h3 class="widget-title">联系我们</h3>			<div class="textwidget"><p>Email：<a  href="mailto:ImportNew.com@gmail.com">ImportNew.com@gmail.com</a><br />
+新浪微博：<a  href="http://weibo.com/importnew" target="_blank" class="external" rel="nofollow">@ImportNew</a><br />
+推荐微信号<br />
+<img src='http://jbcdn2.b0.upaiyun.com/2015/12/weixin/ImportNew_weixin.png' width='100' height='110' /><img src='http://jbcdn2.b0.upaiyun.com/2015/12/weixin/android_weixin.png' width='100' height='110' /><img src='http://jbcdn2.b0.upaiyun.com/2015/12/weixin/Linux_weixin.png' width='100' height='110' /></p>
+<p>反馈建议：ImportNew.com@gmail.com<br />
+广告与商务合作QQ：2302462408 </p>
+</div>
+		</div>			
+		</div>
+		<!-- END .grid-4 -->
+		
+		<!-- BEGIN .grid-4 -->
+		<div class="grid-4">
+			
+			<div id="text-16" class="widget widget_text"><h3 class="widget-title">推荐关注</h3>			<div class="textwidget"><p><a  href="http://group.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">小组</a> &#8211; 好的话题、有启发的回复、值得信赖的圈子<br />
+<a  href="http://top.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">头条</a> &#8211; 写了文章？看干货？去头条！<br />
+<a  href="http://date.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">相亲</a> &#8211; 为IT单身男女服务的征婚传播平台<br />
+<a  href="http://hao.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">资源</a> &#8211; 优秀的工具资源导航<br />
+<a  href="http://fanyi.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">翻译</a> &#8211; 活跃 &#038; 专业的翻译小组<br />
+<a  href="http://blog.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">博客</a> &#8211; 国内外的精选博客文章<br />
+<a  href="http://design.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">设计</a> &#8211; UI,网页，交互和用户体验<br />
+<a  href="http://web.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">前端</a> &#8211; JavaScript, HTML5, CSS<br />
+<a  href="http://android.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">安卓</a> &#8211; 专注Android技术分享<br />
+<a  href="http://ios.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">iOS</a> &#8211; 专注iOS技术分享<br />
+<a  href="http://www.importnew.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank">Java</a> &#8211; 专注Java技术分享<br />
+<a  href="http://python.jobbole.com/?utm_source=www.importnew.com&#038;utm_medium=bottomText" target="_blank" class="external" rel="nofollow">Python</a> &#8211; 专注Python技术分享</p>
+</div>
+		</div>			
+		</div>
+		<!-- END .grid-4 -->
+		
+		<div class="clear"></div>
+	
+	</div>
+	<!-- END .container -->
+
+	<!-- BEGIN #bottom -->
+	<div id="bottom">
+	
+		<!-- BEGIN .container -->
+		<div class="container">
+		
+			<!-- BEGIN .grid-12 -->
+			<div class="grid-12">
+	
+				<p>&copy; 2016 ImportNew</p>
+			
+			</div>
+			<!-- END .grid-12 -->
+			
+			<div class="clear"></div>
+						
+		</div>
+		<!-- END .container -->
+		
+	</div>
+	<!-- END #bottom -->
+	
+</footer>
+<!-- END footer -->
+
+
+	
+<!-- Lightbox Plus v2.3 - 2011.08.11 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({opacity:0.8});
+});
+</script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/plugins/comment-rating/ck-karma.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox-min.js?ver=1.3.17.2'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/ready.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/validate.js?ver=1.9.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/touchwipe.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/caroufredsel.js?ver=5.5.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/flexslider.js?ver=2.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/jplayer.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/selectnav.js?ver=0.1'></script>
+<script type='text/javascript' src='http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/js/effects.js?ver=1.0'></script>
+
+
+<div id="full-btm" style="position:fixed; left:50%; top:550px;  z-index:100; text-align:center; cursor:pointer;">
+<a><img src="http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/img/back-btm.png" width="20" border=0 alt="跳到底部" title="跳到底部"></a>
+</div>
+
+<script type="text/javascript">
+jQuery('#full-btm').click(function(){
+    jQuery('html, body').animate({scrollTop:jQuery(document).height()}, 'slow');
+    return false;
+});
+</script>
+
+<div id="full-top" style="position:fixed; left:50%; top:520px; margin-left:495px; z-index:100; text-align:center; cursor:pointer;">
+<a><img src="http://www.importnew.com/wp-content/themes/jobbolev4blog/_assets/img/back-top.png" width="20" border=0 alt="返回顶部" title="返回顶部"></a>
+</div>
+
+<script type="text/javascript">
+jQuery('#full-top').click(function(){
+    jQuery('html, body').animate({scrollTop:0}, 'slow');
+    return false;
+});
+</script>
+
+<!-- script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','/_assets/js/analytics.js','ga');
+
+    ga('create', 'UA-15621043-1', 'jobbole.com');
+    ga('send', 'pageview');
+
+</script -->
+
+</body>
+<!-- END body -->
+
+</html>
+<!-- END html -->
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: importnew.com @ 2016-05-09 12:23:29 by W3 Total Cache -->
